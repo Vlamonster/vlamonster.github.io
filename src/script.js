@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const parallelOffset = document.getElementById('parallel-offset');
     const maxParallels = document.getElementById('max-parallels');
 
-    const recipeSearch = document.getElementById('recipe-search');
-    const recipeSelect = document.getElementById('recipe-select');
+    // const recipeSearch = document.getElementById('recipe-search');
+    // const recipeSelect = document.getElementById('recipe-select');
     const eu = document.getElementById('eu');
     const time = document.getElementById('time');
     const totalEU = document.getElementById('total-eu');
@@ -32,6 +32,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let parameters = {};
 
+    // Create recipe selector
+    var recipeSelect;
+
     // Fetch machine data and initialize dropdowns
     fetch('machines.json')
         .then(response => response.json())
@@ -39,6 +42,19 @@ document.addEventListener('DOMContentLoaded', () => {
             populateMachineDropdown(data);
             populatePowerDropdown();
             populateCoilDropdown();
+
+            recipeSelect  = new TomSelect("#recipe-select",{
+                sortField: {
+                    field: "text",
+                    direction: "asc"
+                },
+                onChange:function(value){
+                    // Listen for change in recipe selection
+                    const recipe = data[parameters.machine].recipes[value];
+                    parameters.recipe = recipe;
+                    renderRecipeDetails(recipe, data);
+                }
+            });
 
             // Listen for change in machine selection
             machineSelect.addEventListener('change', ({ target: { value: machine } }) => {
@@ -77,14 +93,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
                 displayMachineDetails(parameters, data);
                 renderRecipeDetails(parameters.recipe, data);
-            });
-
-
-            // Listen for change in recipe selection
-            recipeSearch.addEventListener('change', ({ target: { value } }) => {
-                const recipe = data[parameters.machine].recipes[value];
-                parameters.recipe = recipe;
-                renderRecipeDetails(recipe, data);
             });
         })
         .catch(console.error);
@@ -138,20 +146,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function populateRecipeDropdown(parameters, data) {
-        recipeSelect.innerHTML = '';
-        const recipes = Object.keys(data[parameters.machine]?.recipes || []);
-
-        // Populate recipes
-        recipes.forEach(recipe => recipeSelect.appendChild(createOption(recipe, recipe)));
-
-        // Handle filtering based on user input
-        recipeSearch.addEventListener('input', ({ target: { value } }) => {
-            const filteredRecipes = recipes.filter(recipe =>
-                recipe.toLowerCase().includes(value.toLowerCase())
-            );
-            recipeSelect.innerHTML = '';
-            filteredRecipes.forEach(recipe => recipeSelect.appendChild(createOption(recipe, recipe)));
-        });
+        recipeSelect.clearOptions();
+        const recipes = Object.keys(data[parameters.machine].recipes || []);
+        const options = recipes.map(recipe => ({ value: recipe, text: recipe }));
+        recipeSelect.addOptions(options);
+        recipeSelect.refreshOptions(false);
     }
 
     function renderRecipeDetails(recipe, data) {

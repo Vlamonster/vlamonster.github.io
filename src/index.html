@@ -3,11 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Overclock Calculator</title>
+    <link rel="stylesheet" href="tom-select.default.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>Overclock Calculator</h1>
+
+        <h1>OC Calculator GT:NH 2.7.2</h1>
         <label for="machine-select">Machine:</label>
         <select id="machine-select">
             <option value="" disabled selected>Select a machine</option>
@@ -39,9 +41,13 @@
         <label>Max Parallels:</label>
         <div id="max-parallels" class="cell"> </div>
         <hr>
-        <label for="recipe-search">Select Recipe:</label>
-        <input id="recipe-search" class="cell" list="recipe-select" placeholder="Type to search recipes..." />
-        <datalist id="recipe-select"></datalist>
+        <label for="recipe-select">Select Recipe:</label>
+        <select id="recipe-select">
+            <option value="">Select a recipe</option>
+        </select>
+<!--        <label for="recipe-search">Select Recipe:</label>-->
+<!--        <input id="recipe-search" class="cell" list="recipe-select" placeholder="Type to search recipes..." />-->
+<!--        <datalist id="recipe-select"></datalist>-->
         <label for="eu">Energy Usage (EU/t):</label>
         <div id="eu" class="cell">0</div>
         <label for="time">Processing Time (s):</label>
@@ -71,6 +77,7 @@
         <label for="advised-batch">Advised Batch Size:</label>
         <div id="advised-batch" class="cell">0</div>
     </div>
+    <script src="tom-select.complete.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

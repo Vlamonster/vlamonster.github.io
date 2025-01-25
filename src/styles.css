@@ -2,6 +2,18 @@
     scrollbar-color: #454a4d #202324;
 }
 
+.ts-control, .ts-dropdown, .ts-control>input {
+    color: #e8e6e3 !important;
+    background: #181a1b !important;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.ts-wrapper {
+    display: inline-block;
+    width: 200px;
+}
+
 html, body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -51,6 +63,6 @@ label {
     text-align: right;
     border: 1px solid #736b5e;
     border-radius: 4px;
-    min-height: 20px;
+    height: 20px;
     color: #aaa;
 }
