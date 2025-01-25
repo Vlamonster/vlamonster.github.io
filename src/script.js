@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // DOM Element References
     const machineSelect = document.getElementById('machine-select');
     const powerSelect = document.getElementById('power-select');
     const coil = document.getElementById('coil');
@@ -13,8 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const parallelOffset = document.getElementById('parallel-offset');
     const maxParallels = document.getElementById('max-parallels');
 
-    // const recipeSearch = document.getElementById('recipe-search');
-    // const recipeSelect = document.getElementById('recipe-select');
     const eu = document.getElementById('eu');
     const time = document.getElementById('time');
     const totalEU = document.getElementById('total-eu');
@@ -31,11 +28,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const advisedBatch = document.getElementById('advised-batch');
 
     let parameters = {};
+    let recipeSelect;
 
-    // Create recipe selector
-    var recipeSelect;
-
-    // Fetch machine data and initialize dropdowns
+    // Fetch machine data, initialize dropdowns and attach event listeners
     fetch('machines.json')
         .then(response => response.json())
         .then(data => {
@@ -48,8 +43,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     field: "text",
                     direction: "asc"
                 },
+                // Listen for change in recipe selection
                 onChange:function(value){
-                    // Listen for change in recipe selection
                     const recipe = data[parameters.machine].recipes[value];
                     parameters.recipe = recipe;
                     renderRecipeDetails(recipe, data);
@@ -68,8 +63,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 parameters.machine = machine;
                 parameters.power = localStorage.getItem(`${machine}-power`) || '';
                 parameters.coil = localStorage.getItem(`${machine}-coil`) || '';
+                parameters.recipe = null;
                 powerSelect.value = parameters.power;
                 coilSelect.value = parameters.coil;
+                recipeSelect.setValue(null, false);
                 displayMachineDetails(parameters, data);
                 populateRecipeDropdown(parameters, data);
                 renderRecipeDetails(parameters.recipe, data);
@@ -122,6 +119,14 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    function populateRecipeDropdown(parameters, data) {
+        recipeSelect.clearOptions();
+        const recipes = Object.keys(data[parameters.machine].recipes || []);
+        const options = recipes.map(recipe => ({ value: recipe, text: recipe }));
+        recipeSelect.addOptions(options);
+        recipeSelect.refreshOptions(false);
+    }
+
     // Helper function to create options
     function createOption(value, textContent, disabled = false, selected = false) {
         const option = document.createElement('option');
@@ -143,14 +148,6 @@ document.addEventListener('DOMContentLoaded', () => {
         parallelsPerTier.textContent = parallels_per_tier;
         parallelOffset.textContent = parallels_offset;
         maxParallels.textContent = parallels_offset + tier * parallels_per_tier;
-    }
-
-    function populateRecipeDropdown(parameters, data) {
-        recipeSelect.clearOptions();
-        const recipes = Object.keys(data[parameters.machine].recipes || []);
-        const options = recipes.map(recipe => ({ value: recipe, text: recipe }));
-        recipeSelect.addOptions(options);
-        recipeSelect.refreshOptions(false);
     }
 
     function renderRecipeDetails(recipe, data) {
