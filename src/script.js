@@ -213,7 +213,8 @@ document.addEventListener('DOMContentLoaded', () => {
         advisedBatch.textContent = _advicedBatch.toLocaleString();
 
         if (!perfect_overclock) {
-            perfectOverclocks.style.backgroundColor = "#f0f0f0";
+            perfectOverclocks.style.backgroundColor = "#202325";
+            perfectOverclocks.textContent = "-";
         } else {
             perfectOverclocks.style.backgroundColor = null;
         }
