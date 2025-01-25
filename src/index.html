@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Overclock Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Overclock Calculator</h1>
+        <label for="machine-select">Machine:</label>
+        <select id="machine-select">
+            <option value="" disabled selected>Select a machine</option>
+        </select>
+        <br>
+        <label for="power-select">Power (EU/t):</label>
+        <select id="power-select">
+            <option value="" disabled selected>Select a power value</option>
+        </select>
+        <div id="coil" style="display: none;">
+            <label for="coil-select">Coil (°K):</label>
+            <select id="coil-select">
+                <option value="" disabled selected>Select a coil</option>
+            </select>
+        </div>
+        <div id="machine-details"></div>
+        <hr>
+        <label for="speed-modifier">Speed Modifier:</label>
+        <div id="speed-modifier" class="cell"></div>
+        <label for="energy-modifier">Energy Modifier:</label>
+        <div id="energy-modifier" class="cell"> </div>
+        <hr>
+        <label for="power-tier">Power Tier:</label>
+        <div id="power-tier" class="cell"></div>
+        <label for="parallels-per-tier">Parallels per Tier:</label>
+        <div id="parallels-per-tier" class="cell"> </div>
+        <label for="parallel-offset">Parallel Offset:</label>
+        <div id="parallel-offset" class="cell"> </div>
+        <label>Max Parallels:</label>
+        <div id="max-parallels" class="cell"> </div>
+        <hr>
+        <label for="recipe-search">Select Recipe:</label>
+        <input id="recipe-search" list="recipe-select" placeholder="Type to search recipes..." />
+        <datalist id="recipe-select"></datalist>
+        <label for="eu">Energy Usage (EU/t):</label>
+        <div id="eu" class="cell">0</div>
+        <label for="time">Processing Time (s):</label>
+        <div id="time" class="cell">0</div>
+        <label for="total-eu">Total Energy Usage (EU):</label>
+        <div id="total-eu" class="cell">0</div>
+        <hr>
+        <label for="discounted-eu">Discounted Energy Usage (EU/t):</label>
+        <div id="discounted-eu" class="cell">0</div>
+        <label for="total-discounted-eu">Total Discounted Energy Usage (EU):</label>
+        <div id="total-discounted-eu" class="cell">0</div>
+        <label for="effective-processing-time">Effective Processing Time (s):</label>
+        <div id="effective-processing-time" class="cell">0</div>
+        <hr>
+        <label for="achieved-parallels">Achieved Parallels:</label>
+        <div id="achieved-parallels" class="cell">0</div>
+        <label for="overclocks">Overclocks:</label>
+        <div id="overclocks" class="cell">0</div>
+        <label for="perfect-overclocks">Perfect Overclocks:</label>
+        <div id="perfect-overclocks" class="cell">0</div>
+        <label for="regular-overclocks">Regular Overclocks:</label>
+        <div id="regular-overclocks" class="cell">0</div>
+        <label for="overclocked-processing-time">Overclocked Processing Time (s):</label>
+        <div id="overclocked-processing-time" class="cell">0</div>
+        <label for="sub-tick-parallels">Sub-Tick Parallels:</label>
+        <div id="sub-tick-parallels" class="cell">0</div>
+        <label for="advised-batch">Advised Batch Size:</label>
+        <div id="advised-batch" class="cell">0</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

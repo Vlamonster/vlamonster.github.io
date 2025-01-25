@@ -1,0 +1,4733 @@
+{
+  "Industrial Material Press": {
+    "speed_modifier": 6.00,
+    "energy_modifier": 1.00,
+    "parallels_per_tier": 4,
+    "parallels_offset": 0,
+    "perfect_overclock": false,
+    "recipes": {
+      "Advanced Alloy": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Aluminium Foil": {
+        "eu": 24.0,
+        "time": 2.6
+      },
+      "Aluminium Plate": {
+        "eu": 24.0,
+        "time": 1.3
+      },
+      "Aluminium Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Annealed Copper Foil": {
+        "eu": 24.0,
+        "time": 6.3
+      },
+      "Annealed Copper Plate": {
+        "eu": 24.0,
+        "time": 3.15
+      },
+      "Arceus Alloy 2B Foil": {
+        "eu": 122880.0,
+        "time": 4.5
+      },
+      "Artherium-Sn Foil": {
+        "eu": 24.0,
+        "time": 16.6
+      },
+      "Artherium-Sn Plate": {
+        "eu": 24.0,
+        "time": 8.3
+      },
+      "Astral Titanium Foil": {
+        "eu": 1966080.0,
+        "time": 27.8
+      },
+      "Awakened Draconium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Battery Alloy Plate": {
+        "eu": 24.0,
+        "time": 9.45
+      },
+      "Bedrockium Foil": {
+        "eu": 1920.0,
+        "time": 2.0
+      },
+      "Bedrockium Plate": {
+        "eu": 1920.0,
+        "time": 1.0
+      },
+      "Beryllium Plate": {
+        "eu": 24.0,
+        "time": 0.45
+      },
+      "Black Plutonium Foil": {
+        "eu": 24.0,
+        "time": 9.8
+      },
+      "Black Plutonium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Black Plutonium Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Blue Steel Plate": {
+        "eu": 24.0,
+        "time": 3.75
+      },
+      "Botmium Foil": {
+        "eu": 491520.0,
+        "time": 5.5
+      },
+      "Bronze Foil": {
+        "eu": 24.0,
+        "time": 7.6
+      },
+      "Bronze Plate": {
+        "eu": 24.0,
+        "time": 3.8
+      },
+      "Bucket": {
+        "eu": 4.0,
+        "time": 10.0
+      },
+      "Callisto Ice Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Celestial Tungsten Foil": {
+        "eu": 7864320.0,
+        "time": 26.1
+      },
+      "Chromatic Glass Foil": {
+        "eu": 1966080.0,
+        "time": 4.55
+      },
+      "Chromatic Glass Plate": {
+        "eu": 1966080.0,
+        "time": 4.55
+      },
+      "Chrome Plate": {
+        "eu": 24.0,
+        "time": 2.6
+      },
+      "Cinobite A243 Foil": {
+        "eu": 122880.0,
+        "time": 4.7
+      },
+      "Copper Foil": {
+        "eu": 24.0,
+        "time": 6.3
+      },
+      "Copper Plate": {
+        "eu": 24.0,
+        "time": 3.15
+      },
+      "Cosmic Neutronium Foil": {
+        "eu": 122880.0,
+        "time": 4.9
+      },
+      "Cosmic Neutronium Plate": {
+        "eu": 122880.0,
+        "time": 4.9
+      },
+      "Dalisenite Plate": {
+        "eu": 24.0,
+        "time": 5.25
+      },
+      "Dark Steel Plate": {
+        "eu": 24.0,
+        "time": 1.35
+      },
+      "Dense Aluminium Plate": {
+        "eu": 96.0,
+        "time": 11.7
+      },
+      "Dense Americium Plate": {
+        "eu": 96.0,
+        "time": 110.25
+      },
+      "Dense Awakened Draconium Plate": {
+        "eu": 96.0,
+        "time": 44.1
+      },
+      "Dense Callisto Ice Plate": {
+        "eu": 96.0,
+        "time": 44.1
+      },
+      "Dense Chromatic Glass Plate": {
+        "eu": 1966080.0,
+        "time": 9.1
+      },
+      "Dense Copper Plate": {
+        "eu": 96.0,
+        "time": 28.35
+      },
+      "Dense Cosmic Neutronium Plate": {
+        "eu": 122880.0,
+        "time": 44.1
+      },
+      "Dense Creon Plate": {
+        "eu": 7864320.0,
+        "time": 44.1
+      },
+      "Dense Draconium Plate": {
+        "eu": 96.0,
+        "time": 44.1
+      },
+      "Dense Duranium Plate": {
+        "eu": 96.0,
+        "time": 44.1
+      },
+      "Dense Enderium Plate": {
+        "eu": 96.0,
+        "time": 56.7
+      },
+      "Dense Enriched Naquadah Alloy Plate": {
+        "eu": 60.0,
+        "time": 83.7
+      },
+      "Dense Europium Plate": {
+        "eu": 96.0,
+        "time": 67.95
+      },
+      "Dense Flerovium Plate": {
+        "eu": 96.0,
+        "time": 130.05
+      },
+      "Dense Fluxed Electrum Plate": {
+        "eu": 96.0,
+        "time": 44.1
+      },
+      "Dense HSS-S Plate": {
+        "eu": 96.0,
+        "time": 58.05
+      },
+      "Dense Infinity Catalyst Plate": {
+        "eu": 491520.0,
+        "time": 44.1
+      },
+      "Dense Infinity Plate": {
+        "eu": 491520.0,
+        "time": 44.1
+      },
+      "Dense Invar Plate": {
+        "eu": 96.0,
+        "time": 25.2
+      },
+      "Dense Iridium Plate": {
+        "eu": 96.0,
+        "time": 86.4
+      },
+      "Dense Iron Plate": {
+        "eu": 96.0,
+        "time": 25.2
+      },
+      "Dense Lead Plate": {
+        "eu": 96.0,
+        "time": 93.15
+      },
+      "Dense Mellion Plate": {
+        "eu": 7864320.0,
+        "time": 44.1
+      },
+      "Dense Naquadah Alloy Plate": {
+        "eu": 96.0,
+        "time": 44.1
+      },
+      "Dense Naquadria Plate": {
+        "eu": 96.0,
+        "time": 44.1
+      },
+      "Dense Neodymium Plate": {
+        "eu": 96.0,
+        "time": 64.8
+      },
+      "Dense Neutronium Plate": {
+        "eu": 30720.0,
+        "time": 45.0
+      },
+      "Dense Obsidian Plate": {
+        "eu": 120.0,
+        "time": 180.0
+      },
+      "Dense Osmiridium Plate": {
+        "eu": 96.0,
+        "time": 85.95
+      },
+      "Dense Osmium Plate": {
+        "eu": 96.0,
+        "time": 85.5
+      },
+      "Dense Polybenzimidazole Plate": {
+        "eu": 96.0,
+        "time": 3.6
+      },
+      "Dense Precious Metals Alloy Plate": {
+        "eu": 60.0,
+        "time": 66.15
+      },
+      "Dense Pulsating Iron Plate": {
+        "eu": 96.0,
+        "time": 27.45
+      },
+      "Dense Purified Tengam Plate": {
+        "eu": 491520.0,
+        "time": 44.1
+      },
+      "Dense Rhodium-Plated Palladium Plate": {
+        "eu": 60.0,
+        "time": 47.25
+      },
+      "Dense Ruridit Plate": {
+        "eu": 60.0,
+        "time": 19.65
+      },
+      "Dense Shirabon Plate": {
+        "eu": 60.0,
+        "time": 337.5
+      },
+      "Dense Silicone Rubber Sheet": {
+        "eu": 96.0,
+        "time": 3.15
+      },
+      "Dense SpaceTime Plate": {
+        "eu": 7864320.0,
+        "time": 44.1
+      },
+      "Dense Stainless Steel Plate": {
+        "eu": 96.0,
+        "time": 24.75
+      },
+      "Dense Steel Plate": {
+        "eu": 96.0,
+        "time": 25.2
+      },
+      "Dense Styrene-Butadiene Rubber Sheet": {
+        "eu": 96.0,
+        "time": 2.25
+      },
+      "Dense Thaumium Plate": {
+        "eu": 96.0,
+        "time": 70.2
+      },
+      "Dense Titanium Plate": {
+        "eu": 96.0,
+        "time": 21.6
+      },
+      "Dense Titansteel Plate": {
+        "eu": 491520.0,
+        "time": 3.9
+      },
+      "Dense Transcendent Metal Plate": {
+        "eu": 1966080.0,
+        "time": 44.1
+      },
+      "Dense Tungstensteel Plate": {
+        "eu": 96.0,
+        "time": 53.55
+      },
+      "Desh Plate": {
+        "eu": 24.0,
+        "time": 2.45
+      },
+      "Double Aluminium Plate": {
+        "eu": 96.0,
+        "time": 2.6
+      },
+      "Double Beryllium Plate": {
+        "eu": 96.0,
+        "time": 0.9
+      },
+      "Double Carbon Plate": {
+        "eu": 96.0,
+        "time": 1.2
+      },
+      "Double Copper Plate": {
+        "eu": 96.0,
+        "time": 6.3
+      },
+      "Double Cosmic Neutronium Plate": {
+        "eu": 122880.0,
+        "time": 9.8
+      },
+      "Double Dark Steel Plate": {
+        "eu": 96.0,
+        "time": 2.7
+      },
+      "Double Gold Plate": {
+        "eu": 96.0,
+        "time": 19.6
+      },
+      "Double Grisium Plate": {
+        "eu": 1920.0,
+        "time": 22.4
+      },
+      "Double HSS-G Plate": {
+        "eu": 96.0,
+        "time": 9.8
+      },
+      "Double HSS-S Plate": {
+        "eu": 96.0,
+        "time": 12.9
+      },
+      "Double Hastelloy-C276 Plate": {
+        "eu": 1920.0,
+        "time": 3.6
+      },
+      "Double Hastelloy-N Plate": {
+        "eu": 1920.0,
+        "time": 3.0
+      },
+      "Double Hypogen Plate": {
+        "eu": 31457280.0,
+        "time": 49.1
+      },
+      "Double Incoloy-DS Plate": {
+        "eu": 480.0,
+        "time": 2.5
+      },
+      "Double Infinity Catalyst Plate": {
+        "eu": 491520.0,
+        "time": 9.8
+      },
+      "Double Infinity Plate": {
+        "eu": 491520.0,
+        "time": 9.8
+      },
+      "Double Iridium Plate": {
+        "eu": 96.0,
+        "time": 19.2
+      },
+      "Double Iron Plate": {
+        "eu": 96.0,
+        "time": 5.6
+      },
+      "Double Laurenium Plate": {
+        "eu": 122880.0,
+        "time": 4.4
+      },
+      "Double Lead Plate": {
+        "eu": 96.0,
+        "time": 20.7
+      },
+      "Double MAR-Ce-M200 Steel Plate": {
+        "eu": 60.0,
+        "time": 120.0
+      },
+      "Double MAR-M200 Steel Plate": {
+        "eu": 60.0,
+        "time": 8.2
+      },
+      "Double Naquadah Alloy Plate": {
+        "eu": 96.0,
+        "time": 9.8
+      },
+      "Double Neutronium Plate": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Double Osmiridium Plate": {
+        "eu": 96.0,
+        "time": 19.1
+      },
+      "Double Polybenzimidazole Plate": {
+        "eu": 96.0,
+        "time": 0.8
+      },
+      "Double Rhodium-Plated Palladium Plate": {
+        "eu": 60.0,
+        "time": 10.5
+      },
+      "Double Stainless Steel Plate": {
+        "eu": 96.0,
+        "time": 5.5
+      },
+      "Double Steel Plate": {
+        "eu": 96.0,
+        "time": 5.6
+      },
+      "Double Titanium Plate": {
+        "eu": 96.0,
+        "time": 4.8
+      },
+      "Double Transcendent Metal Plate": {
+        "eu": 1966080.0,
+        "time": 9.8
+      },
+      "Double Tungstencarbide Plate": {
+        "eu": 96.0,
+        "time": 9.7
+      },
+      "Double Tungstensteel Plate": {
+        "eu": 96.0,
+        "time": 11.9
+      },
+      "Double Zirconium Carbide Plate": {
+        "eu": 30.0,
+        "time": 5.1
+      },
+      "Draconium Foil": {
+        "eu": 24.0,
+        "time": 9.8
+      },
+      "Draconium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Draconium Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Electrical Steel Plate": {
+        "eu": 24.0,
+        "time": 1.8
+      },
+      "Electrum Foil": {
+        "eu": 24.0,
+        "time": 15.1
+      },
+      "Electrum Plate": {
+        "eu": 24.0,
+        "time": 7.55
+      },
+      "Empty Cell (PTFE)": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Empty Shape Plate": {
+        "eu": 120.0,
+        "time": 10.0
+      },
+      "Energetic Alloy Foil": {
+        "eu": 24.0,
+        "time": 10.9
+      },
+      "Enriched Holmium Foil": {
+        "eu": 24.0,
+        "time": 9.8
+      },
+      "Enriched Holmium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Enriched Naquadah Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Europium Foil": {
+        "eu": 24.0,
+        "time": 15.1
+      },
+      "Fluxed Electrum Foil": {
+        "eu": 24.0,
+        "time": 9.8
+      },
+      "Fluxed Electrum Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Gallium Foil": {
+        "eu": 24.0,
+        "time": 7.0
+      },
+      "Gold Foil": {
+        "eu": 24.0,
+        "time": 19.6
+      },
+      "Gold Plate": {
+        "eu": 24.0,
+        "time": 9.8
+      },
+      "HSS-S Foil": {
+        "eu": 24.0,
+        "time": 12.9
+      },
+      "HSS-S Plate": {
+        "eu": 24.0,
+        "time": 6.45
+      },
+      "High Durability Compound Steel Plate": {
+        "eu": 24.0,
+        "time": 5.35
+      },
+      "Hikarium Foil": {
+        "eu": 24.0,
+        "time": 8.2
+      },
+      "Hypogen Foil": {
+        "eu": 31457280.0,
+        "time": 24.55
+      },
+      "Ichorium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Incoloy-903 Plate": {
+        "eu": 24.0,
+        "time": 2.85
+      },
+      "Incoloy-MA956 Plate": {
+        "eu": 1920.0,
+        "time": 1.2
+      },
+      "Infinity Catalyst Foil": {
+        "eu": 491520.0,
+        "time": 4.9
+      },
+      "Infinity Foil": {
+        "eu": 491520.0,
+        "time": 4.9
+      },
+      "Infinity Plate": {
+        "eu": 491520.0,
+        "time": 4.9
+      },
+      "Infinity Spring": {
+        "eu": 491520.0,
+        "time": 10.0
+      },
+      "Invar Plate": {
+        "eu": 24.0,
+        "time": 2.8
+      },
+      "Iridium Plate": {
+        "eu": 24.0,
+        "time": 9.6
+      },
+      "Iron Plate": {
+        "eu": 24.0,
+        "time": 2.8
+      },
+      "Iron Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Lafium Compound Foil": {
+        "eu": 30720.0,
+        "time": 2.2
+      },
+      "Lanthanum Plate": {
+        "eu": 24.0,
+        "time": 6.9
+      },
+      "Lead Plate": {
+        "eu": 24.0,
+        "time": 10.35
+      },
+      "Lumiium Plate": {
+        "eu": 45.0,
+        "time": 6.8
+      },
+      "MAR-Ce-M200 Steel Plate": {
+        "eu": 24.0,
+        "time": 60.0
+      },
+      "MAR-M200 Steel Plate": {
+        "eu": 24.0,
+        "time": 4.1
+      },
+      "Magnalium Plate": {
+        "eu": 24.0,
+        "time": 1.25
+      },
+      "Magnesia Plate": {
+        "eu": 24.0,
+        "time": 1.0
+      },
+      "Manasteel Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Manganese Foil": {
+        "eu": 24.0,
+        "time": 5.5
+      },
+      "Manyullyn Plate": {
+        "eu": 24.0,
+        "time": 3.9
+      },
+      "Mellion Plate": {
+        "eu": 7864320.0,
+        "time": 4.9
+      },
+      "Meteoric Iron Plate": {
+        "eu": 24.0,
+        "time": 3.4
+      },
+      "Meteoric Steel Plate": {
+        "eu": 24.0,
+        "time": 3.4
+      },
+      "Mica Insulator Foil": {
+        "eu": 30.0,
+        "time": 5.0
+      },
+      "Mysterious Crystal Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Naming": {
+        "eu": 8.0,
+        "time": 6.4
+      },
+      "Naquadah Alloy Foil": {
+        "eu": 24.0,
+        "time": 9.8
+      },
+      "Naquadah Alloy Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Naquadah Alloy Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Naquadah Plate": {
+        "eu": 24.0,
+        "time": 16.5
+      },
+      "Naquadah Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Naquadria Foil": {
+        "eu": 24.0,
+        "time": 9.9
+      },
+      "Naquadria Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Neutronium Foil": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Neutronium Plate": {
+        "eu": 30720.0,
+        "time": 5.0
+      },
+      "Neutronium Spring": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Nickel-Zinc Ferrite Foil": {
+        "eu": 24.0,
+        "time": 3.3
+      },
+      "Nickel-Zinc Ferrite Plate": {
+        "eu": 24.0,
+        "time": 1.65
+      },
+      "Niobium-Titanium Foil": {
+        "eu": 24.0,
+        "time": 7.1
+      },
+      "Niobium-Titanium Plate": {
+        "eu": 24.0,
+        "time": 3.55
+      },
+      "Osmiridium Foil": {
+        "eu": 24.0,
+        "time": 19.1
+      },
+      "Osmiridium Plate": {
+        "eu": 24.0,
+        "time": 9.55
+      },
+      "Osmium Plate": {
+        "eu": 24.0,
+        "time": 9.5
+      },
+      "Palladium Foil": {
+        "eu": 24.0,
+        "time": 10.6
+      },
+      "Palladium Plate": {
+        "eu": 24.0,
+        "time": 5.3
+      },
+      "Pikyonium 64B Foil": {
+        "eu": 122880.0,
+        "time": 2.4
+      },
+      "Platinum Foil": {
+        "eu": 24.0,
+        "time": 19.5
+      },
+      "Platinum Plate": {
+        "eu": 24.0,
+        "time": 9.75
+      },
+      "Plutonium 239 Plate": {
+        "eu": 24.0,
+        "time": 12.3
+      },
+      "Polybenzimidazole Foil": {
+        "eu": 24.0,
+        "time": 0.4
+      },
+      "Polybenzimidazole Plate": {
+        "eu": 24.0,
+        "time": 0.4
+      },
+      "Polyphenylene Sulfide Foil": {
+        "eu": 24.0,
+        "time": 0.45
+      },
+      "Potin Plate": {
+        "eu": 30.0,
+        "time": 6.65
+      },
+      "Pulsating Iron Plate": {
+        "eu": 24.0,
+        "time": 3.05
+      },
+      "Quadruple Plutonium 239 Plate": {
+        "eu": 96.0,
+        "time": 49.2
+      },
+      "Quadruple Polybenzimidazole Plate": {
+        "eu": 96.0,
+        "time": 1.6
+      },
+      "Quadruple Steel Plate": {
+        "eu": 96.0,
+        "time": 11.2
+      },
+      "Quadruple Sunnarium Plate": {
+        "eu": 96.0,
+        "time": 19.6
+      },
+      "Quadruple Tungstensteel Plate": {
+        "eu": 96.0,
+        "time": 23.4
+      },
+      "Quantium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Quantium Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Quantum Foil": {
+        "eu": 7864320.0,
+        "time": 17.5
+      },
+      "Raw Silicon Plate": {
+        "eu": 24.0,
+        "time": 1.4
+      },
+      "Red Alloy Foil": {
+        "eu": 24.0,
+        "time": 40.3
+      },
+      "Red Alloy Plate": {
+        "eu": 24.0,
+        "time": 20.15
+      },
+      "Red Steel Plate": {
+        "eu": 24.0,
+        "time": 3.45
+      },
+      "Redstone Alloy Plate": {
+        "eu": 24.0,
+        "time": 2.25
+      },
+      "Rhodium-Plated Palladium Plate": {
+        "eu": 24.0,
+        "time": 5.25
+      },
+      "Rose Gold Foil": {
+        "eu": 24.0,
+        "time": 16.9
+      },
+      "Ruridit Plate": {
+        "eu": 24.0,
+        "time": 6.55
+      },
+      "Silicon Solar Grade (Poly SI) Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Silver Foil": {
+        "eu": 24.0,
+        "time": 10.7
+      },
+      "Silver Plate": {
+        "eu": 24.0,
+        "time": 3.8
+      },
+      "Small Black Plutonium Spring": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Small Copper Spring": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Small Draconium Spring": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Small Naquadah Alloy Spring": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Small Naquadah Spring": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Small Neutronium Spring": {
+        "eu": 30720.0,
+        "time": 5.0
+      },
+      "Small SpaceTime Spring": {
+        "eu": 7864320.0,
+        "time": 5.0
+      },
+      "Small Tungsten Spring": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Small Vanadium-Gallium Spring": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Soularium Plate": {
+        "eu": 24.0,
+        "time": 5.1
+      },
+      "Stainless Steel Plate": {
+        "eu": 24.0,
+        "time": 2.75
+      },
+      "Steel Foil": {
+        "eu": 24.0,
+        "time": 2.8
+      },
+      "Steel Plate": {
+        "eu": 24.0,
+        "time": 2.8
+      },
+      "Steel Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Stellar Alloy Plate": {
+        "eu": 24.0,
+        "time": 9.7
+      },
+      "Sunnarium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Superconductor Base LuV Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Superconductor Base UEV Spring": {
+        "eu": 491520.0,
+        "time": 10.0
+      },
+      "Superconductor Base UHV Foil": {
+        "eu": 122880.0,
+        "time": 18.1
+      },
+      "Superconductor Base UHV Plate": {
+        "eu": 122880.0,
+        "time": 9.05
+      },
+      "Superconductor Base UHV Spring": {
+        "eu": 122880.0,
+        "time": 10.0
+      },
+      "Superconductor Base UMV Spring": {
+        "eu": 7864320.0,
+        "time": 10.0
+      },
+      "Superconductor Base UV Foil": {
+        "eu": 30720.0,
+        "time": 14.0
+      },
+      "Superconductor Base UV Spring": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Superconductor Base ZPM Foil": {
+        "eu": 24.0,
+        "time": 18.2
+      },
+      "Superconductor Base ZPM Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Tairitsu Foil": {
+        "eu": 24.0,
+        "time": 9.3
+      },
+      "Tantalum Carbide Plate": {
+        "eu": 480.0,
+        "time": 4.75
+      },
+      "Tantalum Foil": {
+        "eu": 24.0,
+        "time": 18.0
+      },
+      "Thaumium Plate": {
+        "eu": 24.0,
+        "time": 7.8
+      },
+      "Thin Polyvinyl Chloride Sheet": {
+        "eu": 24.0,
+        "time": 0.5
+      },
+      "Thin S-B Rubber Sheet": {
+        "eu": 24.0,
+        "time": 0.5
+      },
+      "Thin Styrene-Butadiene Rubber Sheet": {
+        "eu": 24.0,
+        "time": 0.5
+      },
+      "Tin Plate": {
+        "eu": 24.0,
+        "time": 5.9
+      },
+      "Titanium Foil": {
+        "eu": 24.0,
+        "time": 4.8
+      },
+      "Titanium Plate": {
+        "eu": 24.0,
+        "time": 2.4
+      },
+      "Titansteel Foil": {
+        "eu": 491520.0,
+        "time": 3.9
+      },
+      "Transcendent Metal Plate": {
+        "eu": 1966080.0,
+        "time": 4.9
+      },
+      "Trinium Foil": {
+        "eu": 24.0,
+        "time": 9.8
+      },
+      "Trinium Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Triple Aluminium Plate": {
+        "eu": 96.0,
+        "time": 3.9
+      },
+      "Triple Black Plutonium Plate": {
+        "eu": 96.0,
+        "time": 14.7
+      },
+      "Triple Bronze Plate": {
+        "eu": 96.0,
+        "time": 11.4
+      },
+      "Triple Callisto Ice Plate": {
+        "eu": 96.0,
+        "time": 14.7
+      },
+      "Triple Copper Plate": {
+        "eu": 96.0,
+        "time": 9.45
+      },
+      "Triple Desh Plate": {
+        "eu": 96.0,
+        "time": 7.35
+      },
+      "Triple Iron Plate": {
+        "eu": 96.0,
+        "time": 8.4
+      },
+      "Triple Lead Plate": {
+        "eu": 96.0,
+        "time": 31.05
+      },
+      "Triple Ledox Plate": {
+        "eu": 96.0,
+        "time": 14.7
+      },
+      "Triple Meteoric Iron Plate": {
+        "eu": 96.0,
+        "time": 10.2
+      },
+      "Triple Mysterious Crystal Plate": {
+        "eu": 96.0,
+        "time": 14.7
+      },
+      "Triple Mytryl Plate": {
+        "eu": 96.0,
+        "time": 14.7
+      },
+      "Triple Nickel Plate": {
+        "eu": 96.0,
+        "time": 8.7
+      },
+      "Triple Oriharukon Plate": {
+        "eu": 96.0,
+        "time": 30.15
+      },
+      "Triple Polybenzimidazole Plate": {
+        "eu": 96.0,
+        "time": 1.2
+      },
+      "Triple Quantium Plate": {
+        "eu": 96.0,
+        "time": 14.7
+      },
+      "Triple Steel Plate": {
+        "eu": 96.0,
+        "time": 8.4
+      },
+      "Triple Tin Plate": {
+        "eu": 96.0,
+        "time": 17.7
+      },
+      "Triple Titanium Plate": {
+        "eu": 96.0,
+        "time": 7.2
+      },
+      "Tritanium Foil": {
+        "eu": 24.0,
+        "time": 16.15
+      },
+      "Tritanium Plate": {
+        "eu": 24.0,
+        "time": 16.15
+      },
+      "Tumbaga Plate": {
+        "eu": 24.0,
+        "time": 6.45
+      },
+      "Tungsten Plate": {
+        "eu": 24.0,
+        "time": 9.15
+      },
+      "Tungsten Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Tungstencarbide Foil": {
+        "eu": 24.0,
+        "time": 9.7
+      },
+      "Tungstencarbide Plate": {
+        "eu": 24.0,
+        "time": 4.85
+      },
+      "Tungstensteel Plate": {
+        "eu": 24.0,
+        "time": 5.95
+      },
+      "Uranium 238 Plate": {
+        "eu": 24.0,
+        "time": 11.9
+      },
+      "Vanadium-Gallium Foil": {
+        "eu": 24.0,
+        "time": 5.5
+      },
+      "Vanadium-Gallium Spring": {
+        "eu": 16.0,
+        "time": 10.0
+      },
+      "Vibrant Alloy Foil": {
+        "eu": 24.0,
+        "time": 10.7
+      },
+      "Vibrant Alloy Plate": {
+        "eu": 24.0,
+        "time": 5.35
+      },
+      "Void Plate": {
+        "eu": 24.0,
+        "time": 4.9
+      },
+      "Wrought Iron Plate": {
+        "eu": 24.0,
+        "time": 2.8
+      },
+      "Yttrium Barium Cuprate Plate": {
+        "eu": 24.0,
+        "time": 2.55
+      },
+      "Zinc Foil": {
+        "eu": 24.0,
+        "time": 6.5
+      },
+      "Zirconium Carbide Plate": {
+        "eu": 30.0,
+        "time": 2.55
+      }
+    }
+  },
+  "Industrial Mixing Machine": {
+    "speed_modifier": 3.50,
+    "energy_modifier": 1.00,
+    "parallels_per_tier": 8,
+    "parallels_offset": 0,
+    "perfect_overclock": false,
+    "recipes": {
+      "Adamantium Alloy Dust": {
+        "eu": 15.0,
+        "time": 2.6
+      },
+      "Agar": {
+        "eu": 480.0,
+        "time": 30.0
+      },
+      "Alumite Dust": {
+        "eu": 8.0,
+        "time": 10.0
+      },
+      "Aqua Regia": {
+        "eu": 30.0,
+        "time": 1.5
+      },
+      "Arcanite Dust": {
+        "eu": 7680.0,
+        "time": 6.5
+      },
+      "Artherium-Sn Dust": {
+        "eu": 20.0,
+        "time": 1.35
+      },
+      "Astral Silver Dust": {
+        "eu": 480.0,
+        "time": 3.0
+      },
+      "Battery Alloy Dust": {
+        "eu": 4.0,
+        "time": 5.0
+      },
+      "Black Metal Dust": {
+        "eu": 120.0,
+        "time": 4.1
+      },
+      "Black Steel Dust (14)": {
+        "eu": 480.0,
+        "time": 40.0
+      },
+      "Blood Steel Dust": {
+        "eu": 120.0,
+        "time": 20.0
+      },
+      "Blue Steel Dust (16)": {
+        "eu": 480.0,
+        "time": 180.0
+      },
+      "Borosilicate Glass Dust": {
+        "eu": 8.0,
+        "time": 10.0
+      },
+      "Brass Dust": {
+        "eu": 8.0,
+        "time": 2.0
+      },
+      "Bronze Dust": {
+        "eu": 8.0,
+        "time": 2.0
+      },
+      "Cerium-doped Lutetium Aluminium Oxygen Blend Dust (Sapphire + 5)": {
+        "eu": 491520.0,
+        "time": 45.0
+      },
+      "Circuit Compound MK3 Dust": {
+        "eu": 15.0,
+        "time": 1.95
+      },
+      "Cobalt Brass Dust": {
+        "eu": 8.0,
+        "time": 45.0
+      },
+      "Conditioned Bastnasite Mud": {
+        "eu": 120.0,
+        "time": 40.0
+      },
+      "Conductive Iron Dust (15)": {
+        "eu": 120.0,
+        "time": 6.0
+      },
+      "Cryotheum Dust": {
+        "eu": 120.0,
+        "time": 8.0
+      },
+      "Dalisenite Dust": {
+        "eu": 20.0,
+        "time": 0.85
+      },
+      "Damascus Steel Dust (18)": {
+        "eu": 900.0,
+        "time": 11.25
+      },
+      "Dark Steel Dust (14)": {
+        "eu": 120.0,
+        "time": 6.0
+      },
+      "Diluted Sulfuric Acid": {
+        "eu": 30.0,
+        "time": 1.5
+      },
+      "Dimensionally Transcendent Crude Catalyst": {
+        "eu": 122880.0,
+        "time": 2500.0
+      },
+      "Dimensionally Transcendent Exotic Catalyst": {
+        "eu": 7864320.0,
+        "time": 2500.0
+      },
+      "Dimensionally Transcendent Prosaic Catalyst": {
+        "eu": 491520.0,
+        "time": 2500.0
+      },
+      "Dimensionally Transcendent Resplendent Catalyst": {
+        "eu": 1966080.0,
+        "time": 2500.0
+      },
+      "Drilling Fluid": {
+        "eu": 16.0,
+        "time": 3.2
+      },
+      "Duralumin Dust": {
+        "eu": 1920.0,
+        "time": 45.0
+      },
+      "Eglin Steel Base Compound Dust": {
+        "eu": 16.0,
+        "time": 5.1
+      },
+      "Eglin Steel Dust": {
+        "eu": 30.0,
+        "time": 1.4
+      },
+      "Electrical Steel Dust": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Electrotine Iron Compound": {
+        "eu": 30.0,
+        "time": 20.0
+      },
+      "Electrum Dust": {
+        "eu": 8.0,
+        "time": 10.0
+      },
+      "End Steel Dust (16)": {
+        "eu": 480.0,
+        "time": 12.0
+      },
+      "Endereye Dust": {
+        "eu": 48.0,
+        "time": 5.0
+      },
+      "Enderium Base Dust": {
+        "eu": 8.0,
+        "time": 20.0
+      },
+      "Enderium Dust": {
+        "eu": 8.0,
+        "time": 10.0
+      },
+      "Energetic Alloy Dust (17)": {
+        "eu": 480.0,
+        "time": 12.0
+      },
+      "Energium Dust": {
+        "eu": 120.0,
+        "time": 30.0
+      },
+      "Energy Crystal Dust": {
+        "eu": 1920.0,
+        "time": 13.0
+      },
+      "Enriched Holmium Dust": {
+        "eu": 122880.0,
+        "time": 15.0
+      },
+      "Enriched Naquadah Alloy Dust": {
+        "eu": 20.0,
+        "time": 2.3
+      },
+      "Fermented Spider Eye": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Ferrite Mixture Dust": {
+        "eu": 8.0,
+        "time": 10.0
+      },
+      "Fluix Crystal": {
+        "eu": 16.0,
+        "time": 1.0
+      },
+      "Fluxed Electrum Dust": {
+        "eu": 900.0,
+        "time": 2.5
+      },
+      "Formaldehyde Catalyst Dust": {
+        "eu": 30.0,
+        "time": 8.0
+      },
+      "Fuel": {
+        "eu": 120.0,
+        "time": 0.8
+      },
+      "Glass Dust": {
+        "eu": 8.0,
+        "time": 40.0
+      },
+      "Graphite-Uranium Mixture Dust": {
+        "eu": 10.0,
+        "time": 1.7
+      },
+      "Growth Medium": {
+        "eu": 16.0,
+        "time": 20.0
+      },
+      "Gunpowder": {
+        "eu": 8.0,
+        "time": 30.0
+      },
+      "HSS-E Dust": {
+        "eu": 7680.0,
+        "time": 35.0
+      },
+      "HSS-G Dust": {
+        "eu": 1920.0,
+        "time": 30.0
+      },
+      "HSS-S Dust": {
+        "eu": 7680.0,
+        "time": 40.0
+      },
+      "High Durability Compound Steel Dust": {
+        "eu": 20.0,
+        "time": 0.85
+      },
+      "High Energy Mixture": {
+        "eu": 120.0,
+        "time": 12.0
+      },
+      "Hikarium Dust": {
+        "eu": 15.0,
+        "time": 1.35
+      },
+      "IC2 Coolant": {
+        "eu": 48.0,
+        "time": 12.8
+      },
+      "Incoloy-903 Dust": {
+        "eu": 20.0,
+        "time": 0.45
+      },
+      "Incoloy-MA956 Dust": {
+        "eu": 1920.0,
+        "time": 2.4
+      },
+      "Inconel-792 Dust": {
+        "eu": 480.0,
+        "time": 2.6
+      },
+      "Indium Gallium Phosphide Dust": {
+        "eu": 8.0,
+        "time": 10.0
+      },
+      "Invar Dust": {
+        "eu": 8.0,
+        "time": 15.0
+      },
+      "Kanthal Dust": {
+        "eu": 120.0,
+        "time": 15.0
+      },
+      "Lapotron Dust": {
+        "eu": 480.0,
+        "time": 10.0
+      },
+      "Lumiium Dust": {
+        "eu": 120.0,
+        "time": 12.0
+      },
+      "MAR-M200 Steel Dust": {
+        "eu": 20.0,
+        "time": 0.55
+      },
+      "Magnalium Dust": {
+        "eu": 4.0,
+        "time": 5.0
+      },
+      "Magneto Resonatic Dust": {
+        "eu": 20.0,
+        "time": 1.05
+      },
+      "Manyullyn Dust": {
+        "eu": 8.0,
+        "time": 20.0
+      },
+      "Mellion Dust": {
+        "eu": 125829120.0,
+        "time": 15.0
+      },
+      "Melodic Alloy Dust (18)": {
+        "eu": 480.0,
+        "time": 24.0
+      },
+      "Mica Based Pulp": {
+        "eu": 8.0,
+        "time": 20.0
+      },
+      "Molten Dragonblood": {
+        "eu": 1966080.0,
+        "time": 700.0
+      },
+      "Mud Ball": {
+        "eu": 8.0,
+        "time": 2.5
+      },
+      "Nanite Cluster": {
+        "eu": 1966080.0,
+        "time": 10.0
+      },
+      "Naquadah Alloy Dust": {
+        "eu": 7680.0,
+        "time": 20.0
+      },
+      "Nichrome Dust": {
+        "eu": 480.0,
+        "time": 25.0
+      },
+      "Niobium-Titanium Dust": {
+        "eu": 1920.0,
+        "time": 10.0
+      },
+      "Nitration Mixture": {
+        "eu": 2.0,
+        "time": 24.0
+      },
+      "Nitrogenated Bastnasite Rarer Earth Oxides": {
+        "eu": 480.0,
+        "time": 15.0
+      },
+      "Osmiridium Dust": {
+        "eu": 1920.0,
+        "time": 2.0
+      },
+      "Permalloy Dust": {
+        "eu": 15.0,
+        "time": 1.05
+      },
+      "Plutonium Oxide-Uranium Mixture Dust": {
+        "eu": 20.0,
+        "time": 1.25
+      },
+      "Potin Dust": {
+        "eu": 30.0,
+        "time": 13.3
+      },
+      "Precious Metals Alloy Dust": {
+        "eu": 20.0,
+        "time": 1.2
+      },
+      "Pulsating Iron Dust": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Pyrotheum Dust": {
+        "eu": 120.0,
+        "time": 8.0
+      },
+      "Raw Atomic Separation Catalyst": {
+        "eu": 480.0,
+        "time": 15.0
+      },
+      "Red Alloy Dust": {
+        "eu": 16.0,
+        "time": 5.0
+      },
+      "Red Steel Dust (15)": {
+        "eu": 480.0,
+        "time": 60.0
+      },
+      "Redstone Alloy Dust": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Rhodium Filter Cake Solution": {
+        "eu": 30.0,
+        "time": 15.0
+      },
+      "Rhodium Salt Solution": {
+        "eu": 30.0,
+        "time": 1.5
+      },
+      "Rhodium-Plated Palladium Dust": {
+        "eu": 10.0,
+        "time": 2.6
+      },
+      "Rose Gold Dust": {
+        "eu": 120.0,
+        "time": 10.0
+      },
+      "Ruridit Dust": {
+        "eu": 10.0,
+        "time": 3.25
+      },
+      "Salt Water": {
+        "eu": 8.0,
+        "time": 2.5
+      },
+      "Samarium Chloride-Sodium Chloride Blend Dust": {
+        "eu": 30.0,
+        "time": 5.0
+      },
+      "Signalium Dust": {
+        "eu": 120.0,
+        "time": 12.0
+      },
+      "Silicon Carbide Dust": {
+        "eu": 30.0,
+        "time": 2.0
+      },
+      "Sodium Aluminate Dust": {
+        "eu": 48.0,
+        "time": 1.65
+      },
+      "Soldering Alloy Dust": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Soularium Dust": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Special Ceramics Dust": {
+        "eu": 1920.0,
+        "time": 5.0
+      },
+      "Staballoy Dust": {
+        "eu": 480.0,
+        "time": 14.3
+      },
+      "Stainless Steel Dust": {
+        "eu": 120.0,
+        "time": 45.0
+      },
+      "Star Fuel": {
+        "eu": 31457280.0,
+        "time": 3.0
+      },
+      "Stellar Alloy Dust": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Stellite Dust": {
+        "eu": 1920.0,
+        "time": 2.3
+      },
+      "Sterling Silver Dust": {
+        "eu": 120.0,
+        "time": 25.0
+      },
+      "Super Coolant": {
+        "eu": 480.0,
+        "time": 10.0
+      },
+      "Superconductor Base EV Dust": {
+        "eu": 1920.0,
+        "time": 10.0
+      },
+      "Superconductor Base HV Dust": {
+        "eu": 480.0,
+        "time": 10.0
+      },
+      "Superconductor Base IV Dust": {
+        "eu": 7680.0,
+        "time": 10.0
+      },
+      "Superconductor Base LuV Dust": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Superconductor Base MV Dust": {
+        "eu": 120.0,
+        "time": 10.0
+      },
+      "Superconductor Base UEV Dust": {
+        "eu": 7864320.0,
+        "time": 10.0
+      },
+      "Superconductor Base UHV Dust": {
+        "eu": 1966080.0,
+        "time": 10.0
+      },
+      "Superconductor Base UV Dust": {
+        "eu": 491520.0,
+        "time": 10.0
+      },
+      "Superconductor Base ZPM Dust": {
+        "eu": 122880.0,
+        "time": 10.0
+      },
+      "TPV-Alloy Dust": {
+        "eu": 1920.0,
+        "time": 8.75
+      },
+      "Tairitsu Dust": {
+        "eu": 20.0,
+        "time": 0.75
+      },
+      "Tanmolyium Beta-C Dust": {
+        "eu": 20.0,
+        "time": 0.6
+      },
+      "Tantalloy-60 Dust": {
+        "eu": 480.0,
+        "time": 18.1
+      },
+      "Tantalum Carbide / Hafnium Carbide Mixture Dust": {
+        "eu": 1920.0,
+        "time": 10.0
+      },
+      "Tantalum Carbide Dust": {
+        "eu": 480.0,
+        "time": 9.5
+      },
+      "Teflon Dust": {
+        "eu": 16.0,
+        "time": 0.5
+      },
+      "Tin Alloy Dust": {
+        "eu": 8.0,
+        "time": 5.0
+      },
+      "Titansteel Dust": {
+        "eu": 491520.0,
+        "time": 3.9
+      },
+      "Trinium Naquadah Alloy Dust": {
+        "eu": 1920.0,
+        "time": 8.5
+      },
+      "Trinium Naquadah Carbonite Dust": {
+        "eu": 30720.0,
+        "time": 4.5
+      },
+      "Tumbaga Dust": {
+        "eu": 30.0,
+        "time": 12.9
+      },
+      "Tungsten Titanium Carbide Dust": {
+        "eu": 1920.0,
+        "time": 7.2
+      },
+      "Tungstencarbide Dust": {
+        "eu": 480.0,
+        "time": 10.0
+      },
+      "Tungstensteel Dust": {
+        "eu": 1920.0,
+        "time": 2.5
+      },
+      "Vanadium-Gallium Dust": {
+        "eu": 1920.0,
+        "time": 2.0
+      },
+      "Vanadiumsteel Dust": {
+        "eu": 30.0,
+        "time": 5.0
+      },
+      "Vibrant Alloy Dust": {
+        "eu": 480.0,
+        "time": 24.0
+      },
+      "Wet Concrete": {
+        "eu": 16.0,
+        "time": 5.0
+      },
+      "Wet Rare Earth Oxides Dust": {
+        "eu": 30.0,
+        "time": 5.0
+      },
+      "Wood's Glass Dust": {
+        "eu": 16.0,
+        "time": 6.1
+      },
+      "Yttrium Barium Cuprate Dust": {
+        "eu": 1920.0,
+        "time": 30.0
+      },
+      "Zircaloy-4 Dust": {
+        "eu": 20.0,
+        "time": 0.2
+      },
+      "Zirconium Carbide Dust": {
+        "eu": 30.0,
+        "time": 5.1
+      }
+    }
+  },
+  "Industrial Extrusion Machine": {
+    "speed_modifier": 3.50,
+    "energy_modifier": 1.00,
+    "parallels_per_tier": 4,
+    "parallels_offset": 0,
+    "perfect_overclock": false,
+    "recipes": {
+      "Adamantium Rod": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Aluminium Bolt": {
+        "eu": 120.0,
+        "time": 2.6
+      },
+      "Aluminium Gear": {
+        "eu": 120.0,
+        "time": 6.5
+      },
+      "Aluminium Ring": {
+        "eu": 90.0,
+        "time": 2.6
+      },
+      "Aluminium Rod": {
+        "eu": 30.0,
+        "time": 10.0
+      },
+      "Americium Rod": {
+        "eu": 90.0,
+        "time": 24.5
+      },
+      "Annealed Copper Bolt": {
+        "eu": 120.0,
+        "time": 6.3
+      },
+      "Atomic Separation Catalyst Bolt": {
+        "eu": 480.0,
+        "time": 30.1
+      },
+      "Awakened Draconium Fluid Pipe": {
+        "eu": 480.0,
+        "time": 1.2
+      },
+      "Bedrockium Bolt": {
+        "eu": 1920.0,
+        "time": 2.0
+      },
+      "Bedrockium Rod": {
+        "eu": 1920.0,
+        "time": 2.0
+      },
+      "Black Metal Bolt": {
+        "eu": 120.0,
+        "time": 4.1
+      },
+      "Black Metal Rod": {
+        "eu": 120.0,
+        "time": 4.1
+      },
+      "Black Plutonium Bolt": {
+        "eu": 480.0,
+        "time": 9.8
+      },
+      "Black Plutonium Rod": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Black Steel Rod": {
+        "eu": 90.0,
+        "time": 6.4
+      },
+      "Blue Steel Gear": {
+        "eu": 120.0,
+        "time": 18.75
+      },
+      "Blue Steel Rod": {
+        "eu": 90.0,
+        "time": 7.5
+      },
+      "Borosilicate Glass Rod": {
+        "eu": 18.0,
+        "time": 1.8
+      },
+      "Brass Rod": {
+        "eu": 90.0,
+        "time": 6.3
+      },
+      "Bronze Bolt": {
+        "eu": 120.0,
+        "time": 7.6
+      },
+      "Bronze Gear": {
+        "eu": 120.0,
+        "time": 19.0
+      },
+      "Bronze Rod": {
+        "eu": 90.0,
+        "time": 7.6
+      },
+      "Callisto Ice Bolt": {
+        "eu": 120.0,
+        "time": 9.8
+      },
+      "Callisto Ice Rod": {
+        "eu": 90.0,
+        "time": 9.8
+      },
+      "Carbon Gear": {
+        "eu": 30.0,
+        "time": 5.0
+      },
+      "Certificate of not being a noob anymore": {
+        "eu": 8.0,
+        "time": 107374182.35
+      },
+      "Chrome Bolt": {
+        "eu": 120.0,
+        "time": 5.2
+      },
+      "Chrome Rod": {
+        "eu": 90.0,
+        "time": 5.2
+      },
+      "Chrome Rotor": {
+        "eu": 24.0,
+        "time": 2.6
+      },
+      "Cobalt Gear": {
+        "eu": 120.0,
+        "time": 14.75
+      },
+      "Copper Bolt": {
+        "eu": 120.0,
+        "time": 6.3
+      },
+      "Copper Casing": {
+        "eu": 45.0,
+        "time": 3.15
+      },
+      "Copper Rod": {
+        "eu": 90.0,
+        "time": 6.3
+      },
+      "Cosmic Neutronium Block": {
+        "eu": 122880.0,
+        "time": 0.05
+      },
+      "Cosmic Neutronium Bolt": {
+        "eu": 122880.0,
+        "time": 9.8
+      },
+      "Cosmic Neutronium Gear": {
+        "eu": 122880.0,
+        "time": 24.5
+      },
+      "Cosmic Neutronium Ring": {
+        "eu": 122880.0,
+        "time": 9.8
+      },
+      "Cosmic Neutronium Rod": {
+        "eu": 122880.0,
+        "time": 9.8
+      },
+      "Dalisenite Bolt": {
+        "eu": 480.0,
+        "time": 10.5
+      },
+      "Dalisenite Gear": {
+        "eu": 480.0,
+        "time": 26.25
+      },
+      "Damascus Steel Rod": {
+        "eu": 90.0,
+        "time": 5.6
+      },
+      "Dark Steel Rod": {
+        "eu": 90.0,
+        "time": 2.7
+      },
+      "Draconium Ring": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Draconium Rod": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Eglin Steel Bolt": {
+        "eu": 30.0,
+        "time": 1.4
+      },
+      "Eglin Steel Gear": {
+        "eu": 30.0,
+        "time": 3.5
+      },
+      "Eglin Steel Rod": {
+        "eu": 30.0,
+        "time": 1.4
+      },
+      "Electrical Steel Gear": {
+        "eu": 120.0,
+        "time": 9.0
+      },
+      "Electrical Steel Rod": {
+        "eu": 90.0,
+        "time": 3.6
+      },
+      "Electrum Bolt": {
+        "eu": 120.0,
+        "time": 15.1
+      },
+      "Electrum Rod": {
+        "eu": 90.0,
+        "time": 15.1
+      },
+      "End Steel Rod": {
+        "eu": 360.0,
+        "time": 10.2
+      },
+      "Energy Crystal Bolt": {
+        "eu": 1920.0,
+        "time": 13.0
+      },
+      "Enriched Holmium Bolt": {
+        "eu": 480.0,
+        "time": 9.8
+      },
+      "Enriched Holmium Rod": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Enriched Naquadah Alloy Bolt": {
+        "eu": 480.0,
+        "time": 18.6
+      },
+      "Enriched Naquadah Alloy Gear": {
+        "eu": 480.0,
+        "time": 46.5
+      },
+      "Europium Bolt": {
+        "eu": 120.0,
+        "time": 15.1
+      },
+      "Europium Rod": {
+        "eu": 90.0,
+        "time": 15.1
+      },
+      "Fluxed Electrum Casing": {
+        "eu": 45.0,
+        "time": 4.9
+      },
+      "Gold Bolt": {
+        "eu": 120.0,
+        "time": 19.6
+      },
+      "Gold Ring": {
+        "eu": 90.0,
+        "time": 19.6
+      },
+      "Gold Rod": {
+        "eu": 90.0,
+        "time": 19.6
+      },
+      "HSS-E Rod": {
+        "eu": 360.0,
+        "time": 8.1
+      },
+      "HSS-S Bolt": {
+        "eu": 480.0,
+        "time": 12.9
+      },
+      "HSS-S Gear": {
+        "eu": 480.0,
+        "time": 32.35
+      },
+      "HSS-S Ring": {
+        "eu": 360.0,
+        "time": 12.9
+      },
+      "HSS-S Rod": {
+        "eu": 360.0,
+        "time": 12.9
+      },
+      "Hastelloy-N Bolt": {
+        "eu": 1920.0,
+        "time": 3.0
+      },
+      "Hikarium Gear": {
+        "eu": 480.0,
+        "time": 20.5
+      },
+      "Huge Awakened Draconium Fluid Pipe": {
+        "eu": 480.0,
+        "time": 4.8
+      },
+      "Huge Infinity Fluid Pipe": {
+        "eu": 491520.0,
+        "time": 4.8
+      },
+      "Huge Mysterious Crystal Fluid Pipe": {
+        "eu": 480.0,
+        "time": 4.8
+      },
+      "Huge Naquadah Fluid Pipe": {
+        "eu": 480.0,
+        "time": 4.8
+      },
+      "Huge Titanium Fluid Pipe": {
+        "eu": 120.0,
+        "time": 4.8
+      },
+      "Incoloy-903 Gear": {
+        "eu": 480.0,
+        "time": 14.25
+      },
+      "Incoloy-DS Bolt": {
+        "eu": 480.0,
+        "time": 2.5
+      },
+      "Inconel-625 Bolt": {
+        "eu": 120.0,
+        "time": 2.8
+      },
+      "Infinity Catalyst Bolt": {
+        "eu": 491520.0,
+        "time": 9.8
+      },
+      "Infinity Catalyst Rod": {
+        "eu": 491520.0,
+        "time": 9.8
+      },
+      "Infinity Drill Tip": {
+        "eu": 491520.0,
+        "time": 5.0
+      },
+      "Infinity Fluid Pipe": {
+        "eu": 491520.0,
+        "time": 1.2
+      },
+      "Infinity Gear": {
+        "eu": 491520.0,
+        "time": 24.5
+      },
+      "Infinity Ring": {
+        "eu": 491520.0,
+        "time": 9.8
+      },
+      "Infinity Rod": {
+        "eu": 491520.0,
+        "time": 9.8
+      },
+      "Invar Rod": {
+        "eu": 90.0,
+        "time": 5.6
+      },
+      "Iridium Gear": {
+        "eu": 480.0,
+        "time": 48.0
+      },
+      "Iridium Rod": {
+        "eu": 360.0,
+        "time": 19.2
+      },
+      "Iron Bolt": {
+        "eu": 120.0,
+        "time": 5.6
+      },
+      "Iron Ring": {
+        "eu": 90.0,
+        "time": 5.6
+      },
+      "Iron Rod": {
+        "eu": 90.0,
+        "time": 5.6
+      },
+      "Large Awakened Draconium Fluid Pipe": {
+        "eu": 480.0,
+        "time": 2.4
+      },
+      "Large Electrum Item Pipe": {
+        "eu": 120.0,
+        "time": 2.4
+      },
+      "Large Nether Star Fluid Pipe": {
+        "eu": 120.0,
+        "time": 2.4
+      },
+      "Large Neutronium Fluid Pipe": {
+        "eu": 30720.0,
+        "time": 2.4
+      },
+      "Large Stainless Steel Fluid Pipe": {
+        "eu": 120.0,
+        "time": 2.4
+      },
+      "Large Steel Fluid Pipe": {
+        "eu": 120.0,
+        "time": 2.4
+      },
+      "Large Titanium Fluid Pipe": {
+        "eu": 120.0,
+        "time": 2.4
+      },
+      "Lead Bolt": {
+        "eu": 120.0,
+        "time": 20.7
+      },
+      "Ledox Bolt": {
+        "eu": 120.0,
+        "time": 9.8
+      },
+      "Lumiium Bolt": {
+        "eu": 480.0,
+        "time": 6.8
+      },
+      "MAR-Ce-M200 Steel Bolt": {
+        "eu": 480.0,
+        "time": 120.0
+      },
+      "MAR-Ce-M200 Steel Gear": {
+        "eu": 480.0,
+        "time": 300.0
+      },
+      "MAR-M200 Steel Gear": {
+        "eu": 480.0,
+        "time": 20.5
+      },
+      "MAR-M200 Steel Rod": {
+        "eu": 45.0,
+        "time": 8.2
+      },
+      "Magnalium Rod": {
+        "eu": 90.0,
+        "time": 2.5
+      },
+      "Manasteel Bolt": {
+        "eu": 120.0,
+        "time": 9.8
+      },
+      "Manasteel Ring": {
+        "eu": 90.0,
+        "time": 9.8
+      },
+      "Mellion Rod": {
+        "eu": 7864320.0,
+        "time": 9.8
+      },
+      "Meteoric Iron Rod": {
+        "eu": 90.0,
+        "time": 6.8
+      },
+      "Mu-metal Rod": {
+        "eu": 45.0,
+        "time": 18.0
+      },
+      "Mysterious Crystal Fluid Pipe": {
+        "eu": 480.0,
+        "time": 1.2
+      },
+      "Mysterious Crystal Gear": {
+        "eu": 480.0,
+        "time": 24.5
+      },
+      "Naquadah Alloy Bolt": {
+        "eu": 480.0,
+        "time": 9.8
+      },
+      "Naquadah Alloy Drill Tip": {
+        "eu": 120.0,
+        "time": 5.0
+      },
+      "Naquadah Alloy Gear": {
+        "eu": 480.0,
+        "time": 24.5
+      },
+      "Naquadah Alloy Ring": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Naquadah Alloy Rod": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Naquadah Drill Tip": {
+        "eu": 120.0,
+        "time": 5.0
+      },
+      "Naquadah Fluid Pipe": {
+        "eu": 480.0,
+        "time": 1.2
+      },
+      "Naquadah Ring": {
+        "eu": 360.0,
+        "time": 33.0
+      },
+      "Naquadah Rod": {
+        "eu": 360.0,
+        "time": 33.0
+      },
+      "Naquadria Bolt": {
+        "eu": 480.0,
+        "time": 9.8
+      },
+      "Naquadria Rod": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Neodymium Ring": {
+        "eu": 90.0,
+        "time": 14.4
+      },
+      "Neodymium Rod": {
+        "eu": 90.0,
+        "time": 14.4
+      },
+      "Nether Star Fluid Pipe": {
+        "eu": 120.0,
+        "time": 1.2
+      },
+      "Neutronium Bolt": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Neutronium Drill Tip": {
+        "eu": 30720.0,
+        "time": 5.0
+      },
+      "Neutronium Gear": {
+        "eu": 30720.0,
+        "time": 25.0
+      },
+      "Neutronium Ring": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Niobium-Titanium Bolt": {
+        "eu": 480.0,
+        "time": 7.1
+      },
+      "Niobium-Titanium Rod": {
+        "eu": 360.0,
+        "time": 7.1
+      },
+      "Osmiridium Bolt": {
+        "eu": 480.0,
+        "time": 19.1
+      },
+      "Osmiridium Rod": {
+        "eu": 360.0,
+        "time": 19.1
+      },
+      "Osmium Ring": {
+        "eu": 360.0,
+        "time": 19.0
+      },
+      "Osmium Rod": {
+        "eu": 360.0,
+        "time": 19.0
+      },
+      "Osmium Rotor": {
+        "eu": 24.0,
+        "time": 9.5
+      },
+      "PBI Fluid Pipe": {
+        "eu": 24.0,
+        "time": 1.2
+      },
+      "Palladium Bolt": {
+        "eu": 120.0,
+        "time": 10.6
+      },
+      "Palladium Rod": {
+        "eu": 90.0,
+        "time": 10.6
+      },
+      "Permalloy Rod": {
+        "eu": 45.0,
+        "time": 6.3
+      },
+      "Platinum Bolt": {
+        "eu": 120.0,
+        "time": 19.5
+      },
+      "Platinum Ring": {
+        "eu": 90.0,
+        "time": 19.5
+      },
+      "Platinum Rod": {
+        "eu": 90.0,
+        "time": 19.5
+      },
+      "Potin Rod": {
+        "eu": 30.0,
+        "time": 13.3
+      },
+      "Precious Metals Alloy Bolt": {
+        "eu": 480.0,
+        "time": 14.7
+      },
+      "Quantium Bolt": {
+        "eu": 480.0,
+        "time": 9.8
+      },
+      "Quantium Rod": {
+        "eu": 360.0,
+        "time": 9.8
+      },
+      "Red Alloy Bolt": {
+        "eu": 120.0,
+        "time": 40.3
+      },
+      "Red Alloy Ring": {
+        "eu": 90.0,
+        "time": 40.3
+      },
+      "Red Alloy Rod": {
+        "eu": 90.0,
+        "time": 40.3
+      },
+      "Rhodium-Plated Palladium Gear": {
+        "eu": 480.0,
+        "time": 26.25
+      },
+      "Ruridit Bolt": {
+        "eu": 480.0,
+        "time": 13.1
+      },
+      "Ruridit Rod": {
+        "eu": 45.0,
+        "time": 13.1
+      },
+      "Samarium Ring": {
+        "eu": 90.0,
+        "time": 15.0
+      },
+      "Samarium Rod": {
+        "eu": 90.0,
+        "time": 15.0
+      },
+      "Signalium Bolt": {
+        "eu": 480.0,
+        "time": 15.6
+      },
+      "Silver Bolt": {
+        "eu": 120.0,
+        "time": 10.7
+      },
+      "Small Aluminium Gear": {
+        "eu": 120.0,
+        "time": 1.3
+      },
+      "Small Artherium-Sn Gear": {
+        "eu": 480.0,
+        "time": 8.3
+      },
+      "Small Cosmic Neutronium Gear": {
+        "eu": 122880.0,
+        "time": 4.9
+      },
+      "Small Dalisenite Gear": {
+        "eu": 480.0,
+        "time": 5.25
+      },
+      "Small Dark Steel Fluid Pipe": {
+        "eu": 120.0,
+        "time": 0.4
+      },
+      "Small Enriched Naquadah Alloy Gear": {
+        "eu": 480.0,
+        "time": 9.3
+      },
+      "Small HSS-S Gear": {
+        "eu": 480.0,
+        "time": 6.45
+      },
+      "Small High Durability Compound Steel Gear": {
+        "eu": 480.0,
+        "time": 5.35
+      },
+      "Small Infinity Gear": {
+        "eu": 491520.0,
+        "time": 4.9
+      },
+      "Small Iridium Gear": {
+        "eu": 480.0,
+        "time": 9.6
+      },
+      "Small Iron Gear": {
+        "eu": 120.0,
+        "time": 2.8
+      },
+      "Small Mellion Gear": {
+        "eu": 7864320.0,
+        "time": 4.9
+      },
+      "Small Naquadah Alloy Gear": {
+        "eu": 480.0,
+        "time": 4.9
+      },
+      "Small Neutronium Gear": {
+        "eu": 30720.0,
+        "time": 5.0
+      },
+      "Small Niobium-Titanium Fluid Pipe": {
+        "eu": 480.0,
+        "time": 0.4
+      },
+      "Small Rhodium-Plated Palladium Gear": {
+        "eu": 480.0,
+        "time": 5.25
+      },
+      "Small Stainless Steel Gear": {
+        "eu": 120.0,
+        "time": 2.75
+      },
+      "Small Steel Gear": {
+        "eu": 120.0,
+        "time": 2.8
+      },
+      "Small Tairitsu Gear": {
+        "eu": 480.0,
+        "time": 4.65
+      },
+      "Small Tanmolyium Beta-C Gear": {
+        "eu": 480.0,
+        "time": 3.1
+      },
+      "Small Titanium Gear": {
+        "eu": 120.0,
+        "time": 2.4
+      },
+      "Small Transcendent Metal Gear": {
+        "eu": 1966080.0,
+        "time": 4.9
+      },
+      "Small Tungstensteel Fluid Pipe": {
+        "eu": 480.0,
+        "time": 0.4
+      },
+      "Small Tungstensteel Gear": {
+        "eu": 480.0,
+        "time": 5.95
+      },
+      "Staballoy Rod": {
+        "eu": 480.0,
+        "time": 14.3
+      },
+      "Stainless Steel Bolt": {
+        "eu": 120.0,
+        "time": 5.5
+      },
+      "Stainless Steel Gear": {
+        "eu": 120.0,
+        "time": 13.75
+      },
+      "Stainless Steel Ring": {
+        "eu": 90.0,
+        "time": 5.5
+      },
+      "Stainless Steel Rod": {
+        "eu": 90.0,
+        "time": 5.5
+      },
+      "Steel Bolt": {
+        "eu": 120.0,
+        "time": 5.6
+      },
+      "Steel Drill Tip": {
+        "eu": 120.0,
+        "time": 5.0
+      },
+      "Steel Gear": {
+        "eu": 120.0,
+        "time": 14.0
+      },
+      "Steel Ring": {
+        "eu": 90.0,
+        "time": 5.6
+      },
+      "Steel Rod": {
+        "eu": 90.0,
+        "time": 5.6
+      },
+      "Stellar Alloy Rod": {
+        "eu": 360.0,
+        "time": 19.4
+      },
+      "Superconductor Base UEV Rod": {
+        "eu": 491520.0,
+        "time": 9.8
+      },
+      "Superconductor Base UHV Rod": {
+        "eu": 122880.0,
+        "time": 18.1
+      },
+      "Superconductor Base UV Rod": {
+        "eu": 30720.0,
+        "time": 14.0
+      },
+      "Tairitsu Rod": {
+        "eu": 45.0,
+        "time": 9.3
+      },
+      "Tanmolyium Beta-C Bolt": {
+        "eu": 480.0,
+        "time": 6.2
+      },
+      "Tantalum Carbide Bolt": {
+        "eu": 480.0,
+        "time": 9.5
+      },
+      "Tantalum Carbide Gear": {
+        "eu": 480.0,
+        "time": 23.75
+      },
+      "Thaumium Bolt": {
+        "eu": 120.0,
+        "time": 15.6
+      },
+      "Tin Bolt": {
+        "eu": 120.0,
+        "time": 11.8
+      },
+      "Tin Rod": {
+        "eu": 90.0,
+        "time": 11.8
+      },
+      "Tiny Bedrockium Item Pipe": {
+        "eu": 1920.0,
+        "time": 0.2
+      },
+      "Tiny Copper Fluid Pipe": {
+        "eu": 120.0,
+        "time": 0.2
+      },
+      "Tiny Enderium Fluid Pipe": {
+        "eu": 480.0,
+        "time": 0.2
+      },
+      "Tiny Infinity Fluid Pipe": {
+        "eu": 491520.0,
+        "time": 0.2
+      },
+      "Tiny Naquadah Fluid Pipe": {
+        "eu": 480.0,
+        "time": 0.2
+      },
+      "Tiny Neutronium Fluid Pipe": {
+        "eu": 30720.0,
+        "time": 0.2
+      },
+      "Tiny Niobium-Titanium Fluid Pipe": {
+        "eu": 480.0,
+        "time": 0.2
+      },
+      "Tiny Stainless Steel Fluid Pipe": {
+        "eu": 120.0,
+        "time": 0.2
+      },
+      "Tiny Titanium Fluid Pipe": {
+        "eu": 120.0,
+        "time": 0.2
+      },
+      "Tiny Transcendent Metal Fluid Pipe": {
+        "eu": 1966080.0,
+        "time": 0.2
+      },
+      "Tiny Tungstensteel Fluid Pipe": {
+        "eu": 480.0,
+        "time": 0.2
+      },
+      "Titanium Bolt": {
+        "eu": 120.0,
+        "time": 4.8
+      },
+      "Titanium Drill Tip": {
+        "eu": 120.0,
+        "time": 5.0
+      },
+      "Titanium Gear": {
+        "eu": 120.0,
+        "time": 12.0
+      },
+      "Titanium Ring": {
+        "eu": 90.0,
+        "time": 4.8
+      },
+      "Titanium Rod": {
+        "eu": 90.0,
+        "time": 4.8
+      },
+      "Transcendent Metal Bolt": {
+        "eu": 1966080.0,
+        "time": 9.8
+      },
+      "Transcendent Metal Casing": {
+        "eu": 1966080.0,
+        "time": 4.9
+      },
+      "Transcendent Metal Gear": {
+        "eu": 1966080.0,
+        "time": 24.5
+      },
+      "Transcendent Metal Ring": {
+        "eu": 1966080.0,
+        "time": 9.8
+      },
+      "Transcendent Metal Rod": {
+        "eu": 1966080.0,
+        "time": 9.8
+      },
+      "Tritanium Rod": {
+        "eu": 360.0,
+        "time": 32.3
+      },
+      "Tumbaga Bolt": {
+        "eu": 30.0,
+        "time": 12.9
+      },
+      "Tumbaga Gear": {
+        "eu": 30.0,
+        "time": 32.25
+      },
+      "Tumbaga Ring": {
+        "eu": 30.0,
+        "time": 12.9
+      },
+      "Tungsten Gear": {
+        "eu": 480.0,
+        "time": 45.75
+      },
+      "Tungsten Rod": {
+        "eu": 360.0,
+        "time": 18.3
+      },
+      "Tungstencarbide Rod": {
+        "eu": 90.0,
+        "time": 9.7
+      },
+      "Tungstencarbide Rotor": {
+        "eu": 24.0,
+        "time": 4.85
+      },
+      "Tungstensteel Bolt": {
+        "eu": 480.0,
+        "time": 11.9
+      },
+      "Tungstensteel Drill Tip": {
+        "eu": 120.0,
+        "time": 5.0
+      },
+      "Tungstensteel Gear": {
+        "eu": 480.0,
+        "time": 29.75
+      },
+      "Tungstensteel Ring": {
+        "eu": 360.0,
+        "time": 11.9
+      },
+      "Tungstensteel Rod": {
+        "eu": 360.0,
+        "time": 11.9
+      },
+      "Vanadium-Gallium Rod": {
+        "eu": 360.0,
+        "time": 5.5
+      },
+      "Vibrant Alloy Rod": {
+        "eu": 360.0,
+        "time": 10.7
+      },
+      "Yttrium Barium Cuprate Bolt": {
+        "eu": 480.0,
+        "time": 5.1
+      },
+      "Zeron-100 Bolt": {
+        "eu": 30720.0,
+        "time": 3.6
+      },
+      "Zirconium Carbide Rod": {
+        "eu": 30.0,
+        "time": 5.1
+      }
+    }
+  },
+  "Cryogenic Freezer": {
+    "speed_modifier": 2.00,
+    "energy_modifier": 1.00,
+    "parallels_per_tier": 0,
+    "parallels_offset": 4,
+    "perfect_overclock": false,
+    "recipes": {
+      "Adamantium Alloy Ingot": {
+        "eu": 120.0,
+        "time": 23.4
+      },
+      "Adamantium Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Artherium-Sn Ingot": {
+        "eu": 120.0,
+        "time": 24.9
+      },
+      "Atomic Separation Catalyst Ingot": {
+        "eu": 30720.0,
+        "time": 10.0
+      },
+      "Awakened Draconium Ingot": {
+        "eu": 30720.0,
+        "time": 14.7
+      },
+      "Black Plutonium Ingot": {
+        "eu": 122880.0,
+        "time": 14.7
+      },
+      "Cosmic Neutronium Ingot": {
+        "eu": 122880.0,
+        "time": 55.0
+      },
+      "Dalisenite Ingot": {
+        "eu": 120.0,
+        "time": 16.0
+      },
+      "Dense Proto-Halkonite Steel Plate": {
+        "eu": 31457280.0,
+        "time": 9.0
+      },
+      "Desh Ingot": {
+        "eu": 480.0,
+        "time": 7.35
+      },
+      "Draconium Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Enderium Ingot": {
+        "eu": 480.0,
+        "time": 18.9
+      },
+      "Enriched Holmium Ingot": {
+        "eu": 120.0,
+        "time": 14.7
+      },
+      "Enriched Naquadah Alloy Ingot": {
+        "eu": 120.0,
+        "time": 27.9
+      },
+      "Enriched Naquadah Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Extremely Unstable Naquadah Ingot": {
+        "eu": 30720.0,
+        "time": 20.0
+      },
+      "Fermium": {
+        "eu": 120.0,
+        "time": 25.7
+      },
+      "Fine Proto-Halkonite Steel Wire": {
+        "eu": 31457280.0,
+        "time": 1.0
+      },
+      "Fluxed Electrum Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "HSS-E Ingot": {
+        "eu": 480.0,
+        "time": 12.15
+      },
+      "HSS-G Ingot": {
+        "eu": 480.0,
+        "time": 14.7
+      },
+      "HSS-S Ingot": {
+        "eu": 1920.0,
+        "time": 19.35
+      },
+      "High Durability Compound Steel Ingot": {
+        "eu": 120.0,
+        "time": 16.05
+      },
+      "Hikarium Ingot": {
+        "eu": 120.0,
+        "time": 12.3
+      },
+      "Ichorium Ingot": {
+        "eu": 120.0,
+        "time": 14.7
+      },
+      "Incoloy-903 Ingot": {
+        "eu": 120.0,
+        "time": 8.55
+      },
+      "Infinity Catalyst Ingot": {
+        "eu": 491520.0,
+        "time": 14.7
+      },
+      "Iridium Ingot": {
+        "eu": 1920.0,
+        "time": 28.8
+      },
+      "Kanthal": {
+        "eu": 120.0,
+        "time": 6.6
+      },
+      "Kanthal Ingot": {
+        "eu": 120.0,
+        "time": 6.6
+      },
+      "Liquid Helium": {
+        "eu": 120.0,
+        "time": 90.0
+      },
+      "Liquid Nitrogen": {
+        "eu": 480.0,
+        "time": 60.0
+      },
+      "Liquid Oxygen": {
+        "eu": 480.0,
+        "time": 60.0
+      },
+      "Long Proto-Halkonite Steel Rod": {
+        "eu": 31457280.0,
+        "time": 1.0
+      },
+      "Lumiium Ingot": {
+        "eu": 120.0,
+        "time": 10.2
+      },
+      "MAR-Ce-M200 Steel Ingot": {
+        "eu": 120.0,
+        "time": 180.0
+      },
+      "MAR-M200 Steel Ingot": {
+        "eu": 120.0,
+        "time": 12.3
+      },
+      "Manyullyn Ingot": {
+        "eu": 120.0,
+        "time": 11.7
+      },
+      "Mellion Ingot": {
+        "eu": 125829120.0,
+        "time": 20.0
+      },
+      "Mithril Ingot": {
+        "eu": 120.0,
+        "time": 40.95
+      },
+      "Molten Advanced Nitinol": {
+        "eu": 120.0,
+        "time": 9.1
+      },
+      "Molten Americium": {
+        "eu": 30720.0,
+        "time": 1.0
+      },
+      "Molten Astral Titanium": {
+        "eu": 120.0,
+        "time": 27.8
+      },
+      "Molten Celestial Tungsten": {
+        "eu": 120.0,
+        "time": 26.1
+      },
+      "Molten Neptunium": {
+        "eu": 120.0,
+        "time": 23.7
+      },
+      "Mysterious Crystal Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Mytryl Ingot": {
+        "eu": 120.0,
+        "time": 14.7
+      },
+      "Naquadah Alloy Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Naquadah Ingot": {
+        "eu": 7680.0,
+        "time": 16.0
+      },
+      "Naquadria Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Nichrome Ingot": {
+        "eu": 480.0,
+        "time": 8.4
+      },
+      "Niobium-Titanium Ingot": {
+        "eu": 480.0,
+        "time": 10.65
+      },
+      "Oriharukon Ingot": {
+        "eu": 7680.0,
+        "time": 30.15
+      },
+      "Osmiridium Ingot": {
+        "eu": 1920.0,
+        "time": 28.65
+      },
+      "Palladium Ingot": {
+        "eu": 480.0,
+        "time": 15.9
+      },
+      "Precious Metals Alloy Ingot": {
+        "eu": 120.0,
+        "time": 22.05
+      },
+      "Proto-Halkonite Steel Foil": {
+        "eu": 31457280.0,
+        "time": 2.0
+      },
+      "Proto-Halkonite Steel Frame Box": {
+        "eu": 31457280.0,
+        "time": 2.0
+      },
+      "Proto-Halkonite Steel Gear": {
+        "eu": 31457280.0,
+        "time": 4.0
+      },
+      "Proto-Halkonite Steel Plate": {
+        "eu": 31457280.0,
+        "time": 1.0
+      },
+      "Proto-Halkonite Steel Ring": {
+        "eu": 31457280.0,
+        "time": 1.0
+      },
+      "Proto-Halkonite Steel Rotor": {
+        "eu": 31457280.0,
+        "time": 4.25
+      },
+      "Proto-Halkonite Steel Screw": {
+        "eu": 31457280.0,
+        "time": 0.85
+      },
+      "Quantium Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Raw Silicon Ingot": {
+        "eu": 120.0,
+        "time": 4.2
+      },
+      "Rhodium-Plated Palladium Ingot": {
+        "eu": 120.0,
+        "time": 15.75
+      },
+      "Ruridit Ingot": {
+        "eu": 120.0,
+        "time": 19.65
+      },
+      "Shadow Metal Ingot": {
+        "eu": 120.0,
+        "time": 14.7
+      },
+      "Signalium Ingot": {
+        "eu": 120.0,
+        "time": 23.4
+      },
+      "Silicon Solar Grade (Poly SI) Ingot": {
+        "eu": 120.0,
+        "time": 14.7
+      },
+      "Small Proto-Halkonite Steel Gear": {
+        "eu": 31457280.0,
+        "time": 1.0
+      },
+      "Staballoy Ingot": {
+        "eu": 480.0,
+        "time": 21.45
+      },
+      "Stellar Alloy Ingot": {
+        "eu": 7680.0,
+        "time": 50.0
+      },
+      "Superconductor Base EV Ingot": {
+        "eu": 1920.0,
+        "time": 10.0
+      },
+      "Superconductor Base HV Ingot": {
+        "eu": 480.0,
+        "time": 10.0
+      },
+      "Superconductor Base IV": {
+        "eu": 7680.0,
+        "time": 10.0
+      },
+      "Superconductor Base IV Ingot": {
+        "eu": 7680.0,
+        "time": 10.0
+      },
+      "Superconductor Base LuV": {
+        "eu": 30720.0,
+        "time": 20.0
+      },
+      "Superconductor Base MV Ingot": {
+        "eu": 120.0,
+        "time": 10.0
+      },
+      "Superconductor Base UEV Ingot": {
+        "eu": 7864320.0,
+        "time": 160.0
+      },
+      "Superconductor Base UHV Ingot": {
+        "eu": 1966080.0,
+        "time": 80.0
+      },
+      "Superconductor Base UV Ingot": {
+        "eu": 491520.0,
+        "time": 40.0
+      },
+      "Superconductor Base ZPM Ingot": {
+        "eu": 122880.0,
+        "time": 20.0
+      },
+      "Superdense Proto-Halkonite Steel Plate": {
+        "eu": 31457280.0,
+        "time": 64.0
+      },
+      "TPV-Alloy Ingot": {
+        "eu": 1920.0,
+        "time": 16.65
+      },
+      "Tairitsu Ingot": {
+        "eu": 120.0,
+        "time": 13.95
+      },
+      "Tanmolyium Beta-C Ingot": {
+        "eu": 120.0,
+        "time": 9.3
+      },
+      "Tantalum Carbide Ingot": {
+        "eu": 480.0,
+        "time": 14.25
+      },
+      "Tantalum Ingot": {
+        "eu": 480.0,
+        "time": 26.05
+      },
+      "Tartarite Ingot": {
+        "eu": 120.0,
+        "time": 14.7
+      },
+      "Titanium Ingot": {
+        "eu": 480.0,
+        "time": 7.2
+      },
+      "Transcendent Metal Ingot": {
+        "eu": 31457280.0,
+        "time": 1.0
+      },
+      "Trinium Ingot": {
+        "eu": 7680.0,
+        "time": 14.7
+      },
+      "Trinium Naquadah Carbonite Ingot": {
+        "eu": 30720.0,
+        "time": 6.75
+      },
+      "Tungsten Ingot": {
+        "eu": 1920.0,
+        "time": 27.45
+      },
+      "Tungstencarbide Ingot": {
+        "eu": 1920.0,
+        "time": 14.55
+      },
+      "Tungstensteel Ingot": {
+        "eu": 1920.0,
+        "time": 17.85
+      },
+      "Vanadium Ingot": {
+        "eu": 120.0,
+        "time": 7.65
+      },
+      "Vanadium-Gallium Ingot": {
+        "eu": 480.0,
+        "time": 8.25
+      },
+      "Vibrant Alloy Ingot": {
+        "eu": 480.0,
+        "time": 16.05
+      },
+      "Yttrium Barium Cuprate Ingot": {
+        "eu": 1920.0,
+        "time": 7.65
+      },
+      "Yttrium Ingot": {
+        "eu": 120.0,
+        "time": 13.35
+      },
+      "Zircaloy-4 Ingot": {
+        "eu": 120.0,
+        "time": 2.55
+      }
+    }
+  },
+  "Industrial Cutting Factory": {
+    "speed_modifier": 3.00,
+    "energy_modifier": 0.75,
+    "parallels_per_tier": 4,
+    "parallels_offset": 0,
+    "perfect_overclock": false,
+    "recipes": {
+      "ASoC": {
+        "eu": 1024.0,
+        "time": 45.0
+      },
+      "Aluminium Casing": {
+        "eu": 16.0,
+        "time": 1.3
+      },
+      "Americium doped Wafer (Grade 6)": {
+        "eu": 7680.0,
+        "time": 80.0
+      },
+      "Blue Topaz Bolt": {
+        "eu": 4.0,
+        "time": 1.6
+      },
+      "Blue Topaz Plate": {
+        "eu": 30.0,
+        "time": 8.0
+      },
+      "Carbon Bolt": {
+        "eu": 4.0,
+        "time": 1.2
+      },
+      "Central Processing Unit": {
+        "eu": 120.0,
+        "time": 45.0
+      },
+      "Certus Quartz Bolt": {
+        "eu": 4.0,
+        "time": 9.8
+      },
+      "Chrome Casing": {
+        "eu": 16.0,
+        "time": 2.6
+      },
+      "Copper Casing": {
+        "eu": 16.0,
+        "time": 3.15
+      },
+      "Diamond Bolt": {
+        "eu": 4.0,
+        "time": 76.8
+      },
+      "Diamond Plate": {
+        "eu": 30.0,
+        "time": 384.0
+      },
+      "Emerald Plate": {
+        "eu": 30.0,
+        "time": 9.0
+      },
+      "Endereye Plate": {
+        "eu": 30.0,
+        "time": 80.5
+      },
+      "Enderpearl Plate": {
+        "eu": 30.0,
+        "time": 41.5
+      },
+      "Enriched Naquadah Casing": {
+        "eu": 16.0,
+        "time": 4.9
+      },
+      "Europium doped Wafer (Grade 4)": {
+        "eu": 1920.0,
+        "time": 60.0
+      },
+      "Fluxed Electrum Casing": {
+        "eu": 16.0,
+        "time": 4.9
+      },
+      "Glowstone Plate": {
+        "eu": 16.0,
+        "time": 5.0
+      },
+      "High Power IC": {
+        "eu": 7680.0,
+        "time": 45.0
+      },
+      "Ignis Crystal Plate": {
+        "eu": 30.0,
+        "time": 49.0
+      },
+      "Integrated Logic Circuit": {
+        "eu": 64.0,
+        "time": 45.0
+      },
+      "Iridium Alloy Item Casing": {
+        "eu": 256.0,
+        "time": 30.0
+      },
+      "Iron Casing": {
+        "eu": 16.0,
+        "time": 2.8
+      },
+      "Lapis Bolt": {
+        "eu": 4.0,
+        "time": 2.8
+      },
+      "Lapis Plate": {
+        "eu": 30.0,
+        "time": 14.0
+      },
+      "Living Bio Chip": {
+        "eu": 7864320.0,
+        "time": 15.0
+      },
+      "Low Power IC": {
+        "eu": 480.0,
+        "time": 45.0
+      },
+      "NAND Chip": {
+        "eu": 480.0,
+        "time": 5.0
+      },
+      "NAND Memory Chip": {
+        "eu": 192.0,
+        "time": 45.0
+      },
+      "NOR Memory Chip": {
+        "eu": 192.0,
+        "time": 45.0
+      },
+      "Nano Power IC": {
+        "eu": 122880.0,
+        "time": 45.0
+      },
+      "Nanocomponent Central Processing Unit": {
+        "eu": 480.0,
+        "time": 45.0
+      },
+      "Naquadah doped Wafer (Grade 2)": {
+        "eu": 480.0,
+        "time": 40.0
+      },
+      "Nether Star Plate": {
+        "eu": 30.0,
+        "time": 49.0
+      },
+      "Ordo Crystal Plate": {
+        "eu": 30.0,
+        "time": 49.0
+      },
+      "Orundum Plate": {
+        "eu": 30.0,
+        "time": 49.0
+      },
+      "Phosphorus Doped Wafer": {
+        "eu": 120.0,
+        "time": 40.0
+      },
+      "Photonically Prepared Wafer (Grade 7)": {
+        "eu": 7864320.0,
+        "time": 50.0
+      },
+      "Photonically Prepared Wafer (Grade 8)": {
+        "eu": 7864320.0,
+        "time": 25.0
+      },
+      "Piko Power IC": {
+        "eu": 491520.0,
+        "time": 45.0
+      },
+      "Polyethylene Casing": {
+        "eu": 16.0,
+        "time": 0.2
+      },
+      "Power IC": {
+        "eu": 1920.0,
+        "time": 45.0
+      },
+      "QBit Processing Unit": {
+        "eu": 1920.0,
+        "time": 45.0
+      },
+      "Quantum Power IC": {
+        "eu": 1966080.0,
+        "time": 45.0
+      },
+      "Quartzite Bolt": {
+        "eu": 4.0,
+        "time": 9.8
+      },
+      "Random Access Memory Chip": {
+        "eu": 96.0,
+        "time": 45.0
+      },
+      "Redstone Plate": {
+        "eu": 30.0,
+        "time": 42.5
+      },
+      "Simple SoC": {
+        "eu": 64.0,
+        "time": 45.0
+      },
+      "SoC": {
+        "eu": 480.0,
+        "time": 45.0
+      },
+      "Stainless Steel Casing": {
+        "eu": 16.0,
+        "time": 2.75
+      },
+      "Steel Casing": {
+        "eu": 16.0,
+        "time": 2.8
+      },
+      "Tiberium Plate": {
+        "eu": 30.0,
+        "time": 163.0
+      },
+      "Tin Casing": {
+        "eu": 16.0,
+        "time": 5.9
+      },
+      "Tungstensteel Casing": {
+        "eu": 16.0,
+        "time": 5.95
+      },
+      "Ultra High Power IC": {
+        "eu": 30720.0,
+        "time": 45.0
+      },
+      "Ultra Low Power IC": {
+        "eu": 120.0,
+        "time": 45.0
+      },
+      "Wafer": {
+        "eu": 30.0,
+        "time": 20.0
+      }
+    }
+  },
+  "Volcanus": {
+    "speed_modifier": 2.20,
+    "energy_modifier": 0.90,
+    "parallels_per_tier": 0,
+    "parallels_offset": 8,
+    "perfect_overclock": true,
+    "recipes": {
+      "Acidic Osmium Solution": {
+        "eu": 120.0,
+        "heat": 775.0,
+        "time": 5.0
+      },
+      "Alumina Dust (Hydroxide)": {
+        "eu": 480.0,
+        "heat": 1300.0,
+        "time": 10.0
+      },
+      "Aluminium Ingot": {
+        "eu": 120.0,
+        "heat": 963.0,
+        "time": 80.0
+      },
+      "Aluminium Ingot (Alumina + Carbon)": {
+        "eu": 120.0,
+        "heat": 2054.0,
+        "time": 60.0
+      },
+      "Aluminium Nitride Dust (Alumina)": {
+        "eu": 1920.0,
+        "heat": 4600.0,
+        "time": 10.0
+      },
+      "Americium doped Monocrystalline Silicon Boule (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 9000.0,
+        "time": 450.0
+      },
+      "Americium doped Monocrystalline Silicon Boule (Radon)": {
+        "eu": 30720.0,
+        "heat": 9000.0,
+        "time": 1050.0
+      },
+      "Ardite Ingot (Hydrogen)": {
+        "eu": 120.0,
+        "heat": 1600.0,
+        "time": 90.0
+      },
+      "Bastnasite Rare Earth Oxides Dust": {
+        "eu": 600.0,
+        "heat": 1400.0,
+        "time": 25.0
+      },
+      "Black Steel Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1200.0,
+        "time": 50.0
+      },
+      "Blue Steel Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1400.0,
+        "time": 60.0
+      },
+      "Calcium Ingot": {
+        "eu": 120.0,
+        "heat": 1115.0,
+        "time": 55.75
+      },
+      "Cerium (III) Oxide Dust": {
+        "eu": 480.0,
+        "heat": 800.0,
+        "time": 10.0
+      },
+      "Cerium Ingot": {
+        "eu": 120.0,
+        "heat": 1068.0,
+        "time": 160.2
+      },
+      "Chrome Ingot": {
+        "eu": 120.0,
+        "heat": 1700.0,
+        "time": 85.0
+      },
+      "Cobalt Ingot (Nitrogen)": {
+        "eu": 120.0,
+        "heat": 1700.0,
+        "time": 70.0
+      },
+      "Cobalt Ingot (Oganesson)": {
+        "eu": 120.0,
+        "heat": 1700.0,
+        "time": 21.0
+      },
+      "Conductive Iron Ingot": {
+        "eu": 120.0,
+        "heat": 1200.0,
+        "time": 60.0
+      },
+      "Damascus Steel Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1500.0,
+        "time": 60.0
+      },
+      "Dark Steel (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1800.0,
+        "time": 50.0
+      },
+      "Dirty Activated Carbon Dust": {
+        "eu": 1920.0,
+        "heat": 4501.0,
+        "time": 10.0
+      },
+      "Electrical Steel Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1000.0,
+        "time": 60.0
+      },
+      "End Steel Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 4500.0,
+        "time": 20.0
+      },
+      "End Steel Ingot (Radon)": {
+        "eu": 1920.0,
+        "heat": 4500.0,
+        "time": 46.65
+      },
+      "Energetic Alloy Ingot (Hydrogen)": {
+        "eu": 120.0,
+        "heat": 2200.0,
+        "time": 80.0
+      },
+      "Engraved Crystal Chip (Argon)": {
+        "eu": 480.0,
+        "heat": 5000.0,
+        "time": 40.0
+      },
+      "Engraved Crystal Chip (Helium)": {
+        "eu": 480.0,
+        "heat": 5000.0,
+        "time": 45.0
+      },
+      "Engraved Crystal Chip (Radon)": {
+        "eu": 480.0,
+        "heat": 5000.0,
+        "time": 35.0
+      },
+      "Europium doped Monocrystalline Silicon Boule (Helium)": {
+        "eu": 7680.0,
+        "heat": 6484.0,
+        "time": 1157.1
+      },
+      "Europium doped Monocrystalline Silicon Boule (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 6484.0,
+        "time": 385.7
+      },
+      "Extremely Unstable Naquadah Dust": {
+        "eu": 3840.0,
+        "heat": 3400.0,
+        "time": 180.0
+      },
+      "Flawed Cubic Zirconia": {
+        "eu": 480.0,
+        "heat": 2953.0,
+        "time": 2880.0
+      },
+      "Flawed Prasiolite": {
+        "eu": 120.0,
+        "heat": 500.0,
+        "time": 4.0
+      },
+      "Gallium Arsenide Crystal": {
+        "eu": 120.0,
+        "heat": 1511.0,
+        "time": 60.0
+      },
+      "Graphite Dust (Nitrogen)": {
+        "eu": 7680.0,
+        "heat": 4500.0,
+        "time": 7.5
+      },
+      "Graphite Dust (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 4500.0,
+        "time": 2.25
+      },
+      "Holmium Dust": {
+        "eu": 1920.0,
+        "heat": 1200.0,
+        "time": 61.0
+      },
+      "Hot Adamantium Alloy Ingot (Argon)": {
+        "eu": 1920.0,
+        "heat": 5500.0,
+        "time": 111.1
+      },
+      "Hot Adamantium Alloy Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 5500.0,
+        "time": 41.65
+      },
+      "Hot Adamantium Alloy Ingot (Radon)": {
+        "eu": 1920.0,
+        "heat": 5500.0,
+        "time": 69.4
+      },
+      "Hot Adamantium Ingot": {
+        "eu": 120.0,
+        "heat": 7200.0,
+        "time": 720.0
+      },
+      "Hot Artherium-Sn Ingot (Oganesson)": {
+        "eu": 122880.0,
+        "heat": 6500.0,
+        "time": 8.3
+      },
+      "Hot Artherium-Sn Ingot (Radon)": {
+        "eu": 122800.0,
+        "heat": 6500.0,
+        "time": 19.4
+      },
+      "Hot Atomic Separation Catalyst Ingot": {
+        "eu": 480.0,
+        "heat": 5000.0,
+        "time": 180.0
+      },
+      "Hot Awakened Draconium Ingot (Oganesson)": {
+        "eu": 122800.0,
+        "heat": 9900.0,
+        "time": 75.0
+      },
+      "Hot Black Plutonium Ingot (Oganesson)": {
+        "eu": 122880.0,
+        "heat": 9000.0,
+        "time": 90.0
+      },
+      "Hot Cosmic Neutronium Ingot (Oganesson)": {
+        "eu": 122880.0,
+        "heat": 9900.0,
+        "time": 214.25
+      },
+      "Hot Dalisenite Ingot (Oganesson)": {
+        "eu": 491520.0,
+        "heat": 8700.0,
+        "time": 13.3
+      },
+      "Hot Desh Ingot (Oxygen)": {
+        "eu": 480.0,
+        "heat": 2500.0,
+        "time": 100.0
+      },
+      "Hot Draconium Ingot (Argon)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 160.0
+      },
+      "Hot Draconium Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 60.0
+      },
+      "Hot Draconium Ingot (Radon)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 140.0
+      },
+      "Hot Enderium Ingot": {
+        "eu": 120.0,
+        "heat": 4500.0,
+        "time": 179.8
+      },
+      "Hot Enderium Ingot (Argon)": {
+        "eu": 120.0,
+        "heat": 4500.0,
+        "time": 155.5
+      },
+      "Hot Enderium Ingot (Oganesson)": {
+        "eu": 120.0,
+        "heat": 4500.0,
+        "time": 58.3
+      },
+      "Hot Enderium Ingot (Radon)": {
+        "eu": 120.0,
+        "heat": 4500.0,
+        "time": 136.1
+      },
+      "Hot Enderium Ingot (Xenon)": {
+        "eu": 120.0,
+        "heat": 4500.0,
+        "time": 77.75
+      },
+      "Hot Enriched Holmium Ingot": {
+        "eu": 120.0,
+        "heat": 3000.0,
+        "time": 300.0
+      },
+      "Hot Enriched Naquadah Alloy Ingot (Oganesson)": {
+        "eu": 7864320.0,
+        "heat": 11000.0,
+        "time": 53.3
+      },
+      "Hot Enriched Naquadah Ingot": {
+        "eu": 7680.0,
+        "heat": 7500.0,
+        "time": 5.0
+      },
+      "Hot Extremely Unstable Naquadah Ingot": {
+        "eu": 122880.0,
+        "heat": 7000.0,
+        "time": 400.0
+      },
+      "Hot Fluxed Electrum Ingot (Oganesson)": {
+        "eu": 122880.0,
+        "heat": 9000.0,
+        "time": 18.0
+      },
+      "Hot Fluxed Electrum Ingot (Radon)": {
+        "eu": 122880.0,
+        "heat": 9000.0,
+        "time": 42.0
+      },
+      "Hot HSS-E Ingot": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 128.4
+      },
+      "Hot HSS-E Ingot (Argon)": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 111.1
+      },
+      "Hot HSS-E Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 41.65
+      },
+      "Hot HSS-E Ingot (Radon)": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 97.2
+      },
+      "Hot HSS-G Ingot": {
+        "eu": 1920.0,
+        "heat": 4200.0,
+        "time": 98.64
+      },
+      "Hot HSS-G Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 4200.0,
+        "time": 27.0
+      },
+      "Hot HSS-S Ingot": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 154.1
+      },
+      "Hot HSS-S Ingot (Argon)": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 133.3
+      },
+      "Hot HSS-S Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 50.0
+      },
+      "Hot HSS-S Ingot (Radon)": {
+        "eu": 1920.0,
+        "heat": 5000.0,
+        "time": 116.5
+      },
+      "Hot High Durability Compound Steel Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 9000.0,
+        "time": 337.5
+      },
+      "Hot Hikarium Ingot": {
+        "eu": 30720.0,
+        "heat": 5400.0,
+        "time": 61.65
+      },
+      "Hot Hikarium Ingot (Argon)": {
+        "eu": 30720.0,
+        "heat": 5400.0,
+        "time": 53.3
+      },
+      "Hot Hikarium Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 5400.0,
+        "time": 20.0
+      },
+      "Hot Hikarium Ingot (Radon)": {
+        "eu": 30720.0,
+        "heat": 5400.0,
+        "time": 46.5
+      },
+      "Hot Ichorium Ingot": {
+        "eu": 120.0,
+        "heat": 9000.0,
+        "time": 900.0
+      },
+      "Hot Incoloy-903 Ingot": {
+        "eu": 1920.0,
+        "heat": 3700.0,
+        "time": 61.65
+      },
+      "Hot Incoloy-903 Ingot (Argon)": {
+        "eu": 1920.0,
+        "heat": 3700.0,
+        "time": 53.3
+      },
+      "Hot Incoloy-903 Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 3700.0,
+        "time": 20.0
+      },
+      "Hot Incoloy-903 Ingot (Radon)": {
+        "eu": 1920.0,
+        "heat": 3700.0,
+        "time": 46.65
+      },
+      "Hot Infinity Catalyst Ingot (Oganesson)": {
+        "eu": 491520.0,
+        "heat": 10800.0,
+        "time": 257.1
+      },
+      "Hot Iridium Ingot": {
+        "eu": 7680.0,
+        "heat": 4500.0,
+        "time": 54.8
+      },
+      "Hot Iridium Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 4500.0,
+        "time": 15.0
+      },
+      "Hot Iridium Ingot (Xenon)": {
+        "eu": 7680.0,
+        "heat": 4500.0,
+        "time": 20.0
+      },
+      "Hot Kanthal Ingot (Oxygen)": {
+        "eu": 480.0,
+        "heat": 1800.0,
+        "time": 60.0
+      },
+      "Hot Lumiium Ingot": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 82.2
+      },
+      "Hot Lumiium Ingot (Argon)": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 71.1
+      },
+      "Hot Lumiium Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 26.65
+      },
+      "Hot Lumiium Ingot (Radon)": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 62.2
+      },
+      "Hot MAR-Ce-M200 Steel Ingot": {
+        "eu": 122880.0,
+        "heat": 5400.0,
+        "time": 285.0
+      },
+      "Hot MAR-M200 Steel Ingot": {
+        "eu": 7680.0,
+        "heat": 5000.0,
+        "time": 10.25
+      },
+      "Hot MAR-M200 Steel Ingot (Argon)": {
+        "eu": 7680.0,
+        "heat": 5000.0,
+        "time": 8.85
+      },
+      "Hot MAR-M200 Steel Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 5000.0,
+        "time": 3.3
+      },
+      "Hot MAR-M200 Steel Ingot (Radon)": {
+        "eu": 7680.0,
+        "heat": 5000.0,
+        "time": 7.75
+      },
+      "Hot Manyullyn Ingot (Hydrogen)": {
+        "eu": 480.0,
+        "heat": 3300.0,
+        "time": 75.0
+      },
+      "Hot Mithril Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 6600.0,
+        "time": 34.5
+      },
+      "Hot Mysterious Crystal Ingot (Oganesson)": {
+        "eu": 122880.0,
+        "heat": 7200.0,
+        "time": 96.4
+      },
+      "Hot Mytryl Ingot": {
+        "eu": 120.0,
+        "heat": 3600.0,
+        "time": 360.0
+      },
+      "Hot Naquadah Alloy Ingot (Argon)": {
+        "eu": 61440.0,
+        "heat": 7200.0,
+        "time": 48.0
+      },
+      "Hot Naquadah Alloy Ingot (Helium)": {
+        "eu": 61440.0,
+        "heat": 7200.0,
+        "time": 54.0
+      },
+      "Hot Naquadah Alloy Ingot (Oganesson)": {
+        "eu": 61440.0,
+        "heat": 7200.0,
+        "time": 18.0
+      },
+      "Hot Naquadah Alloy Ingot (Radon)": {
+        "eu": 61440.0,
+        "heat": 7200.0,
+        "time": 42.0
+      },
+      "Hot Naquadah Alloy Ingot (Xenon)": {
+        "eu": 61440.0,
+        "heat": 7200.0,
+        "time": 24.0
+      },
+      "Hot Naquadah Ingot (Naquadahine + Carbon)": {
+        "eu": 7680.0,
+        "heat": 5000.0,
+        "time": 2.0
+      },
+      "Hot Naquadria Ingot": {
+        "eu": 122880.0,
+        "heat": 9000.0,
+        "time": 21.0
+      },
+      "Hot Netherrack Brick": {
+        "eu": 120.0,
+        "heat": 1200.0,
+        "time": 30.0
+      },
+      "Hot Neutronium Ingot (Oganesson)": {
+        "eu": 491520.0,
+        "heat": 9000.0,
+        "time": 144.0
+      },
+      "Hot Neutronium ingot (Xenon)": {
+        "eu": 491520.0,
+        "heat": 9000.0,
+        "time": 192.0
+      },
+      "Hot Nichrome Ingot": {
+        "eu": 1920.0,
+        "heat": 2700.0,
+        "time": 65.75
+      },
+      "Hot Nichrome Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 2700.0,
+        "time": 18.0
+      },
+      "Hot Niobium-Titanium Ingot": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 205.5
+      },
+      "Hot Niobium-Titanium Ingot (Argon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 177.75
+      },
+      "Hot Niobium-Titanium Ingot (Oganesson)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 66.5
+      },
+      "Hot Niobium-Titanium Ingot (Radon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 155.5
+      },
+      "Hot Niobium-Titanium Ingot (Xenon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 88.85
+      },
+      "Hot Oriharukon Ingot (Nitrogen)": {
+        "eu": 7680.0,
+        "heat": 5400.0,
+        "time": 115.0
+      },
+      "Hot Oriharukon Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 5400.0,
+        "time": 34.5
+      },
+      "Hot Osmiridium Ingot (Argon)": {
+        "eu": 30720.0,
+        "heat": 4500.0,
+        "time": 66.65
+      },
+      "Hot Osmiridium Ingot (Helium)": {
+        "eu": 30720.0,
+        "heat": 4500.0,
+        "time": 75.0
+      },
+      "Hot Osmiridium Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 4500.0,
+        "time": 25.0
+      },
+      "Hot Osmiridium Ingot (Radon)": {
+        "eu": 30720.0,
+        "heat": 4500.0,
+        "time": 58.3
+      },
+      "Hot Osmium Ingot": {
+        "eu": 30720.0,
+        "heat": 4500.0,
+        "time": 51.35
+      },
+      "Hot Osmium Ingot (Argon)": {
+        "eu": 30720.0,
+        "heat": 4500.0,
+        "time": 44.4
+      },
+      "Hot Osmium Ingot (Radon)": {
+        "eu": 30720.0,
+        "heat": 4500.0,
+        "time": 38.85
+      },
+      "Hot Palladium Ingot": {
+        "eu": 120.0,
+        "heat": 1828.0,
+        "time": 182.8
+      },
+      "Hot Precious Metals Alloy Ingot (Oganesson)": {
+        "eu": 7864320.0,
+        "heat": 10000.0,
+        "time": 40.0
+      },
+      "Hot Quantium Ingot (Helium)": {
+        "eu": 7680.0,
+        "heat": 5400.0,
+        "time": 192.85
+      },
+      "Hot Quantium Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 5400.0,
+        "time": 64.25
+      },
+      "Hot Raw Silicon Ingot": {
+        "eu": 120.0,
+        "heat": 2273.0,
+        "time": 113.65
+      },
+      "Hot Rhodium-Plated Palladium Ingot (Argon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 450.0
+      },
+      "Hot Rhodium-Plated Palladium Ingot (Helium)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 506.25
+      },
+      "Hot Rhodium-Plated Palladium Ingot (Oganesson)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 168.75
+      },
+      "Hot Rhodium-Plated Palladium Ingot (Radon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 393.75
+      },
+      "Hot Ruridit Ingot": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 759.35
+      },
+      "Hot Ruridit Ingot (Argon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 675.0
+      },
+      "Hot Ruridit Ingot (Oganesson)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 253.1
+      },
+      "Hot Ruridit Ingot (Radon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 590.6
+      },
+      "Hot Shadow Metal Ingot": {
+        "eu": 120.0,
+        "heat": 1800.0,
+        "time": 180.0
+      },
+      "Hot Signalium Ingot": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 82.2
+      },
+      "Hot Signalium Ingot (Argon)": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 71.1
+      },
+      "Hot Signalium Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 26.65
+      },
+      "Hot Signalium Ingot (Radon)": {
+        "eu": 30720.0,
+        "heat": 4000.0,
+        "time": 62.2
+      },
+      "Hot Silicon Solar Grade (Poly SI) Ingot (Argon)": {
+        "eu": 120.0,
+        "heat": 2273.0,
+        "time": 71.1
+      },
+      "Hot Silicon Solar Grade (Poly SI) Ingot (Oganesson)": {
+        "eu": 120.0,
+        "heat": 2273.0,
+        "time": 26.65
+      },
+      "Hot Silicon Solar Grade (Poly SI) Ingot (Radon)": {
+        "eu": 120.0,
+        "heat": 2273.0,
+        "time": 62.2
+      },
+      "Hot Silicon Solar Grade (Poly SI) Ingot (Xenon)": {
+        "eu": 120.0,
+        "heat": 2273.0,
+        "time": 35.55
+      },
+      "Hot Staballoy Ingot": {
+        "eu": 480.0,
+        "heat": 3725.0,
+        "time": 37.5
+      },
+      "Hot Stellar Alloy Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 60.0
+      },
+      "Hot Superconductor Base EV Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 4400.0,
+        "time": 46.65
+      },
+      "Hot Superconductor Base EV Ingot (Radon)": {
+        "eu": 1920.0,
+        "heat": 4400.0,
+        "time": 108.85
+      },
+      "Hot Superconductor Base HV Ingot (Nitrogen)": {
+        "eu": 480.0,
+        "heat": 3300.0,
+        "time": 115.0
+      },
+      "Hot Superconductor Base HV Ingot (Oganesson)": {
+        "eu": 480.0,
+        "heat": 3300.0,
+        "time": 34.5
+      },
+      "Hot Superconductor Base IV Ingot": {
+        "eu": 1920.0,
+        "heat": 5200.0,
+        "time": 174.65
+      },
+      "Hot Superconductor Base IV Ingot (Argon)": {
+        "eu": 1920.0,
+        "heat": 5200.0,
+        "time": 151.1
+      },
+      "Hot Superconductor Base IV Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 5200.0,
+        "time": 56.65
+      },
+      "Hot Superconductor Base IV Ingot (Radon)": {
+        "eu": 1920.0,
+        "heat": 5200.0,
+        "time": 132.2
+      },
+      "Hot Superconductor Base LuV Ingot (Argon)": {
+        "eu": 7680.0,
+        "heat": 6000.0,
+        "time": 168.0
+      },
+      "Hot Superconductor Base LuV Ingot (Helium)": {
+        "eu": 7680.0,
+        "heat": 6000.0,
+        "time": 189.0
+      },
+      "Hot Superconductor Base LuV Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 6000.0,
+        "time": 63.0
+      },
+      "Hot Superconductor Base LuV Ingot (Radon)": {
+        "eu": 7680.0,
+        "heat": 6000.0,
+        "time": 147.0
+      },
+      "Hot Superconductor Base MV Ingot": {
+        "eu": 480.0,
+        "heat": 2500.0,
+        "time": 120.0
+      },
+      "Hot Superconductor Base UEV Ingot (Oganesson)": {
+        "eu": 491520.0,
+        "heat": 11800.0,
+        "time": 189.55
+      },
+      "Hot Superconductor Base UHV Ingot (Oganesson)": {
+        "eu": 122880.0,
+        "heat": 10500.0,
+        "time": 160.7
+      },
+      "Hot Superconductor Base UV Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 9900.0,
+        "time": 30720.0
+      },
+      "Hot Superconductor Base ZPM Ingot (Argon)": {
+        "eu": 7680.0,
+        "heat": 9000.0,
+        "time": 192.0
+      },
+      "Hot Superconductor Base ZPM Ingot (Helium)": {
+        "eu": 7680.0,
+        "heat": 9000.0,
+        "time": 216.0
+      },
+      "Hot Superconductor Base ZPM Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 9000.0,
+        "time": 72.0
+      },
+      "Hot Superconductor Base ZPM Ingot (Radon)": {
+        "eu": 7680.0,
+        "heat": 9000.0,
+        "time": 168.0
+      },
+      "Hot TPV-Alloy Ingot (Nitrogen)": {
+        "eu": 1920.0,
+        "heat": 3000.0,
+        "time": 125.0
+      },
+      "Hot TPV-Alloy Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 3000.0,
+        "time": 37.5
+      },
+      "Hot Tairitsu Ingot (Oganesson)": {
+        "eu": 1966080.0,
+        "heat": 7400.0,
+        "time": 20.0
+      },
+      "Hot Tanmolyium Beta-C Ingot": {
+        "eu": 7680.0,
+        "heat": 5300.0,
+        "time": 20.55
+      },
+      "Hot Tanmolyium Beta-C Ingot (Argon)": {
+        "eu": 7680.0,
+        "heat": 5300.0,
+        "time": 17.75
+      },
+      "Hot Tanmolyium Beta-C Ingot (Oganesson)": {
+        "eu": 7680.0,
+        "heat": 5300.0,
+        "time": 6.65
+      },
+      "Hot Tanmolyium Beta-C Ingot (Radon)": {
+        "eu": 7680.0,
+        "heat": 5300.0,
+        "time": 15.55
+      },
+      "Hot Tantalum Carbide Ingot": {
+        "eu": 480.0,
+        "heat": 3255.0,
+        "time": 37.5
+      },
+      "Hot Tantalum Ingot": {
+        "eu": 480.0,
+        "heat": 2400.0,
+        "time": 131.55
+      },
+      "Hot Tantalum Ingot (Oganesson)": {
+        "eu": 480.0,
+        "heat": 2400.0,
+        "time": 36.0
+      },
+      "Hot Tartarite Ingot (Oganesson)": {
+        "eu": 1966080.0,
+        "heat": 10400.0,
+        "time": 34.5
+      },
+      "Hot Titanium Ingot (Titanium Trifluoride)": {
+        "eu": 1920.0,
+        "heat": 2000.0,
+        "time": 6.0
+      },
+      "Hot Titanium Ingot (Xenon)": {
+        "eu": 1920.0,
+        "heat": 1940.0,
+        "time": 36.0
+      },
+      "Hot Transcendent Metal Ingot": {
+        "eu": 31457280.0,
+        "heat": 11701.0,
+        "time": 180.0
+      },
+      "Hot Trinium Ingot (Argon)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 56.0
+      },
+      "Hot Trinium Ingot (Helium)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 63.0
+      },
+      "Hot Trinium Ingot (Oganesson)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 21.0
+      },
+      "Hot Trinium Ingot (Radon)": {
+        "eu": 30720.0,
+        "heat": 7200.0,
+        "time": 49.0
+      },
+      "Hot Trinium Naquadah Carbonite Ingot": {
+        "eu": 30720.0,
+        "heat": 6775.0,
+        "time": 375.0
+      },
+      "Hot Tungsten Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 3000.0,
+        "time": 150.0
+      },
+      "Hot Tungsten Ingot (Xenon)": {
+        "eu": 1920.0,
+        "heat": 3000.0,
+        "time": 200.0
+      },
+      "Hot Tungstencarbide Ingot (Nitrogen)": {
+        "eu": 1920.0,
+        "heat": 2460.0,
+        "time": 100.0
+      },
+      "Hot Tungstencarbide Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 2640.0,
+        "time": 30.0
+      },
+      "Hot Tungstensteel Ingot": {
+        "eu": 1920.0,
+        "heat": 4000.0,
+        "time": 137.0
+      },
+      "Hot Tungstensteel Ingot (Oganesson)": {
+        "eu": 1920.0,
+        "heat": 4000.0,
+        "time": 37.5
+      },
+      "Hot Vanadium Ingot": {
+        "eu": 120.0,
+        "heat": 2183.0,
+        "time": 109.15
+      },
+      "Hot Vanadium-Gallium Ingot": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 205.5
+      },
+      "Hot Vanadium-Gallium Ingot (Argon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 177.75
+      },
+      "Hot Vanadium-Gallium Ingot (Oganesson)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 66.65
+      },
+      "Hot Vanadium-Gallium Ingot (Radon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 155.55
+      },
+      "Hot Vanadium-Gallium Ingot (Xenon)": {
+        "eu": 480.0,
+        "heat": 4500.0,
+        "time": 88.85
+      },
+      "Hot Vibrant Alloy Ingot (Hydrogen)": {
+        "eu": 120.0,
+        "heat": 3000.0,
+        "time": 150.0
+      },
+      "Hot Yttrium Barium Cuprate Ingot": {
+        "eu": 120.0,
+        "heat": 4500.0,
+        "time": 225.0
+      },
+      "Hot Yttrium Ingot": {
+        "eu": 120.0,
+        "heat": 1799.0,
+        "time": 179.9
+      },
+      "Hot Zircaloy-4 Ingot (Oganesson)": {
+        "eu": 480.0,
+        "heat": 2800.0,
+        "time": 8.3
+      },
+      "Iridium Dioxide Dust": {
+        "eu": 120.0,
+        "heat": 775.0,
+        "time": 10.0
+      },
+      "Lanthanum Ingot": {
+        "eu": 120.0,
+        "heat": 1193.0,
+        "time": 178.95
+      },
+      "Leach Residue Dust": {
+        "eu": 120.0,
+        "heat": 775.0,
+        "time": 10.0
+      },
+      "Lithium Chloride Dust": {
+        "eu": 120.0,
+        "heat": 1200.0,
+        "time": 1.2
+      },
+      "Low Quality Naquadah Emulsion": {
+        "eu": 480.0,
+        "heat": 3000.0,
+        "time": 2.5
+      },
+      "Meteoric Iron Ingot (Meteoric Iron Dust)": {
+        "eu": 120.0,
+        "heat": 1000.0,
+        "time": 50.0
+      },
+      "Meteoric Steel Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1200.0,
+        "time": 25.0
+      },
+      "Monocrystalline Silicon Boule": {
+        "eu": 120.0,
+        "heat": 1784.0,
+        "time": 450.0
+      },
+      "Mu-metal Ingot": {
+        "eu": 1920.0,
+        "heat": 4500.0,
+        "time": 20.0
+      },
+      "Naquadah doped Monocrystalline Silicon Boule (Argon)": {
+        "eu": 7680.0,
+        "heat": 4484.0,
+        "time": 50.0
+      },
+      "Naquadah doped Monocrystalline Silicon Boule (Naquadahine + Helium)": {
+        "eu": 7680.0,
+        "heat": 4484.0,
+        "time": 56.25
+      },
+      "Naquadah doped Monocrystalline Silicon Boule (Naquadahine + Oganesson)": {
+        "eu": 7680.0,
+        "heat": 4484.0,
+        "time": 18.75
+      },
+      "Naquadah doped Monocrystalline Silicon Boule (Oganesson + Naquadah)": {
+        "eu": 1920.0,
+        "heat": 4484.0,
+        "time": 281.25
+      },
+      "Naquadah doped Monocrystalline Silicon Boule (Radon)": {
+        "eu": 7680.0,
+        "heat": 4484.0,
+        "time": 43.75
+      },
+      "Neodymium Ingot": {
+        "eu": 120.0,
+        "heat": 1297.0,
+        "time": 194.55
+      },
+      "Nickel Aluminide Ingot": {
+        "eu": 480.0,
+        "heat": 1688.0,
+        "time": 45.0
+      },
+      "Nickel-Zinc Ferrite Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1500.0,
+        "time": 30.0
+      },
+      "Phosphorus doped Monocrystalline Silicon Boule (Oganesson)": {
+        "eu": 480.0,
+        "heat": 2484.0,
+        "time": 180.0
+      },
+      "Platinum Metallic Powder Dust": {
+        "eu": 120.0,
+        "heat": 900.0,
+        "time": 10.0
+      },
+      "Pulsating Iron Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1800.0,
+        "time": 80.0
+      },
+      "Raw Silicon Ingot": {
+        "eu": 120.0,
+        "heat": 1200.0,
+        "time": 4.0
+      },
+      "Red Steel Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1300.0,
+        "time": 55.0
+      },
+      "Redstone Alloy Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1000.0,
+        "time": 40.0
+      },
+      "Rhodium Salt Dust": {
+        "eu": 120.0,
+        "heat": 600.0,
+        "time": 15.0
+      },
+      "Roasted Rare Earth Oxides Dust": {
+        "eu": 120.0,
+        "heat": 1200.0,
+        "time": 30.0
+      },
+      "Rose Gold Ingot": {
+        "eu": 120.0,
+        "heat": 1600.0,
+        "time": 320.0
+      },
+      "Samarium Ingot": {
+        "eu": 120.0,
+        "heat": 1345.0,
+        "time": 201.75
+      },
+      "Shadow Steel Ingot": {
+        "eu": 1920.0,
+        "heat": 2000.0,
+        "time": 10.0
+      },
+      "Sodium Ruthenate Dust": {
+        "eu": 120.0,
+        "heat": 775.0,
+        "time": 10.0
+      },
+      "Soularium Ingot (Oganesson)": {
+        "eu": 120.0,
+        "heat": 1000.0,
+        "time": 16.65
+      },
+      "Soularium Ingot (Radon)": {
+        "eu": 120.0,
+        "heat": 1000.0,
+        "time": 38.85
+      },
+      "Stainless Steel Ingot (Oxygen)": {
+        "eu": 480.0,
+        "heat": 1700.0,
+        "time": 60.0
+      },
+      "Steel Ingot (Carbon)": {
+        "eu": 1920.0,
+        "heat": 2000.0,
+        "time": 12.5
+      },
+      "Tellurium Nugget": {
+        "eu": 120.0,
+        "heat": 722.0,
+        "time": 4.0
+      },
+      "Tungsten Dust": {
+        "eu": 480.0,
+        "heat": 1000.0,
+        "time": 5.0
+      },
+      "Vanadium Pentoxide Dust": {
+        "eu": 120.0,
+        "heat": 2500.0,
+        "time": 10.0
+      },
+      "Vanadiumsteel Ingot (Oxygen)": {
+        "eu": 120.0,
+        "heat": 1453.0,
+        "time": 60.0
+      },
+      "Wrought Iron": {
+        "eu": 480.0,
+        "heat": 1700.0,
+        "time": 160.0
+      }
+    }
+  },
+  "Mega Oil Cracker": {
+    "speed_modifier": 1.00,
+    "energy_modifier": 1.00,
+    "parallels_per_tier": 0,
+    "parallels_offset": 256,
+    "perfect_overclock": false,
+    "recipes": {
+      "Cracked Radox": {
+        "eu": 491520.0,
+        "time": 25.0
+      },
+      "Light Radox": {
+        "eu": 491520.0,
+        "time": 25.0
+      },
+      "Lightly Cracked Heavy Naquadah Fuel": {
+        "eu": 4020.0,
+        "time": 10.0
+      },
+      "Lightly Cracked Light Naquadah Fuel": {
+        "eu": 4020.0,
+        "time": 4.5
+      },
+      "Lightly Cracked Naquadah Asphalt": {
+        "eu": 4020.0,
+        "time": 8.0
+      },
+      "Lightly Cracked Naquadah Gas": {
+        "eu": 4020.0,
+        "time": 3.0
+      },
+      "Lightly Steam-Cracked Naphtha": {
+        "eu": 240.0,
+        "time": 1.0
+      },
+      "Moderately Hydro-Cracked Butadiene": {
+        "eu": 240.0,
+        "time": 1.0
+      },
+      "Moderately Steam-Cracked Butadiene": {
+        "eu": 240.0,
+        "time": 1.0
+      },
+      "Moderately Steam-Cracked Light Fuel": {
+        "eu": 240.0,
+        "time": 1.0
+      },
+      "Moderately Steam-Cracked Naphtha": {
+        "eu": 240.0,
+        "time": 1.0
+      },
+      "Severely Cracked Light Naquadah Fuel": {
+        "eu": 4020.0,
+        "time": 6.75
+      },
+      "Severely Cracked Naquadah Gas": {
+        "eu": 4020.0,
+        "time": 4.5
+      },
+      "Severely Steam-Cracked Refinery Gas": {
+        "eu": 240.0,
+        "time": 1.5
+      },
+      "Steam-Cracked Bastnasite Mud": {
+        "eu": 480.0,
+        "time": 1.2
+      },
+      "Super Light Radox": {
+        "eu": 491520.0,
+        "time": 25.0
+      }
+    }
+  }
+}

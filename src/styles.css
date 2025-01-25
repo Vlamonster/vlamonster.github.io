@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+select, input {
+    width: 200px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+select option {
+    text-align: right;
+}
+
+label {
+    display: inline-block;
+    vertical-align: middle;
+    width: 275px;
+    margin-bottom: 5px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.cell {
+    display: inline-block;
+    vertical-align: middle;
+    width: 190px;
+    padding: 5px 5px;
+    text-align: right;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    min-height: 20px;
+    color: #aaa;
+}
